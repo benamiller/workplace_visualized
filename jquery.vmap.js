@@ -168,7 +168,7 @@ var JQVMap = function (params) {
       jQuery(params.container).trigger(regionMouseOverEvent, [code, mapData.paths[code].name]);
       if (!regionMouseOverEvent.isDefaultPrevented()) {
         map.highlight(code, containerPath);
-        document.getElementById('data').innerHTML
+        document.getElementById('data').innerHTML = mapData.paths[code].name;
       }
       if (params.showTooltip) {
         map.label.text(mapData.paths[code].name);
