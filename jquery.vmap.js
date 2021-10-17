@@ -168,7 +168,6 @@ var JQVMap = function (params) {
       jQuery(params.container).trigger(regionMouseOverEvent, [code, mapData.paths[code].name]);
       if (!regionMouseOverEvent.isDefaultPrevented()) {
         map.highlight(code, containerPath);
-        document.getElementById('data').innerHTML = mapData.paths[code].name;
       }
       if (params.showTooltip) {
         map.label.text(mapData.paths[code].name);
@@ -201,6 +200,7 @@ var JQVMap = function (params) {
     if ( !params.multiSelectRegion && !mapClickEvent.isDefaultPrevented()) {
       for (var keyPath in mapData.paths) {
         map.countries[keyPath].currentFillColor = map.countries[keyPath].getOriginalFill();
+        document.getElementById('data').innerHTML = mapData.paths[code].name;;
         map.countries[keyPath].setFill(map.countries[keyPath].getOriginalFill());
       }
     }
