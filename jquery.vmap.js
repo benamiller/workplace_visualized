@@ -6,6 +6,7 @@
  * @license https://github.com/manifestinteractive/jqvmap/blob/master/LICENSE
  * @builddate 2016/06/02
  */
+var toggle = 0;
 
 var VectorCanvas = function (width, height, params) {
   this.mode = window.SVGAngle ? 'svg' : 'vml';
@@ -200,7 +201,15 @@ var JQVMap = function (params) {
     if ( !params.multiSelectRegion && !mapClickEvent.isDefaultPrevented()) {
       for (var keyPath in mapData.paths) {
         map.countries[keyPath].currentFillColor = map.countries[keyPath].getOriginalFill();
-        document.getElementById('data').innerHTML = mapData.paths[code].name;;
+        document.getElementById('data').innerHTML = mapData.paths[code].name;
+          if (toggle === 0) {
+            document.getElementById('chart1Title').innerHTML = mapData.paths[code].name;
+              console.log(toggle);
+            toggle = 1;
+          } else {
+              document.getElementById('chart2Title').innerHTML = mapData.paths[code].name;
+              toggle = 0;
+          }
         map.countries[keyPath].setFill(map.countries[keyPath].getOriginalFill());
       }
     }
