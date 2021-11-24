@@ -1,0 +1,1260 @@
+Age,Gender,Country,self_employed,family_history,treatment,work_interfere,no_employees,remote_work,tech_company,Calculation,isGood
+37,d,United States,NA,No,Yes,Often,25-Jun,No,Yes,5,1
+46,male,United States,Yes,Yes,No,Sometimes,05-Jan,Yes,Yes,5,1
+42,Male,United States,No,Yes,Yes,Sometimes,26-100,Yes,Yes,5,1
+35,M,United States,No,No,Yes,Rarely,More than 1000,Yes,Yes,6,1
+38,Female,United States,No,Yes,Yes,Sometimes,26-100,No,Yes,6,1
+26,Female,Poland,No,No,Yes,Sometimes,26-100,Yes,Yes,5,1
+40,Male,United States,No,Yes,No,Sometimes,More than 1000,Yes,Yes,5,1
+25,Male,United States,No,No,No,NA,More than 1000,Yes,Yes,6,1
+27,Cis Female,United States,Yes,No,Yes,Often,05-Jan,Yes,Yes,7,1
+31,Male,United States,No,No,No,Never,500-1000,No,Yes,7,1
+33,Male,United States,No,Yes,Yes,Sometimes,26-100,Yes,Yes,7,1
+32,Male,United States,No,No,Yes,Sometimes,26-100,No,Yes,6,1
+28,Male,United States,No,No,Yes,Sometimes,26-100,No,Yes,6,1
+45,male,United States,No,Yes,Yes,Rarely,25-Jun,Yes,Yes,6,1
+29,Male,United States,No,No,No,Never,More than 1000,No,Yes,5,1
+27,Male,United States,No,Yes,No,Never,500-1000,No,Yes,5,1
+32,M,United States,No,No,Yes,Rarely,100-500,No,Yes,6,1
+33,F,United States,Yes,Yes,Yes,Sometimes,05-Jan,No,Yes,6,1
+40,Female,United States,No,No,No,NA,26-100,No,Yes,7,1
+30,Male,Germany,Yes,No,Yes,Often,25-Jun,Yes,Yes,5,1
+34,Male,Australia,Yes,No,No,Sometimes,05-Jan,Yes,Yes,5,1
+33,M,United States,No,Yes,Yes,Sometimes,26-100,No,Yes,6,1
+27,Male,United States,No,No,No,Never,More than 1000,Yes,Yes,5,1
+40,M,United States,No,No,Yes,Sometimes,More than 1000,Yes,Yes,6,1
+31,male,United States,No,Yes,Yes,Rarely,100-500,Yes,Yes,6,1
+30,Male,United States,No,No,Yes,Sometimes,100-500,Yes,Yes,6,1
+30,Male,United States,No,No,No,NA,More than 1000,No,Yes,7,1
+33,Male,Canada,No,No,No,NA,100-500,No,Yes,5,1
+30,F,United States,No,Yes,Yes,Sometimes,26-100,No,Yes,5,1
+37,M,United States,No,No,No,Never,More than 1000,No,Yes,5,1
+23,Female,United States,No,No,Yes,Sometimes,More than 1000,No,Yes,5,1
+37,F,United States,No,No,Yes,Rarely,More than 1000,No,Yes,5,1
+22,Female,United States,No,Yes,Yes,Often,More than 1000,No,Yes,6,1
+41,Male,United States,No,Yes,Yes,Rarely,100-500,Yes,Yes,6,1
+32,Male,United States,No,No,No,Never,500-1000,No,Yes,5,1
+30,Female,United States,No,No,No,Never,More than 1000,No,Yes,5,1
+24,Male,United States,No,No,No,NA,26-100,No,Yes,5,1
+29,male,United States,No,No,No,NA,26-100,No,Yes,7,1
+27,Male,United States,No,No,Yes,Sometimes,More than 1000,No,Yes,6,1
+35,Male,United States,No,Yes,No,NA,More than 1000,No,Yes,5,1
+22,F,United States,No,No,No,NA,More than 1000,No,Yes,5,1
+55,M,United States,No,Yes,Yes,Rarely,More than 1000,No,Yes,7,1
+32,F,United States,No,No,Yes,Sometimes,26-100,No,Yes,7,1
+27,Male,United States,No,No,Yes,Rarely,More than 1000,No,Yes,6,1
+26,Male,United States,No,Yes,No,NA,25-Jun,No,Yes,5,1
+33,Male,United States,No,Yes,Yes,Never,26-100,Yes,Yes,6,1
+28,Male,New Zealand,No,Yes,Yes,Sometimes,25-Jun,Yes,Yes,5,1
+24,Female,United States,No,No,No,NA,More than 1000,No,Yes,6,1
+29,Male,United States,No,Yes,Yes,Rarely,05-Jan,Yes,Yes,7,1
+41,m,United States,No,No,Yes,Sometimes,More than 1000,No,Yes,7,1
+23,M,Canada,No,Yes,Yes,Sometimes,25-Jun,No,Yes,5,1
+43,Male,United States,Yes,Yes,Yes,Often,25-Jun,Yes,Yes,5,1
+40,Genderqueer,United States,No,Yes,No,Never,More than 1000,No,Yes,6,1
+33,Female ,United States,No,No,No,Never,500-1000,No,Yes,5,1
+31,Male,United States,No,No,Yes,Sometimes,100-500,Yes,Yes,7,1
+58,Male,United States,No,No,Yes,Rarely,More than 1000,No,Yes,7,1
+43,M,United States,No,No,Yes,Sometimes,More than 1000,No,Yes,6,1
+46,male,United States,No,No,Yes,Sometimes,More than 1000,No,Yes,5,1
+47,M,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,6,1
+22,Male,United States,No,No,No,NA,More than 1000,No,Yes,5,1
+39,Male,United States,No,No,No,Never,26-100,No,Yes,7,1
+38,male,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,5,1
+46,Male,United States,No,No,Yes,Rarely,500-1000,Yes,Yes,6,1
+33,Male,Germany,No,No,Yes,Sometimes,25-Jun,No,Yes,5,1
+62,M,United States,No,No,No,Never,More than 1000,No,Yes,5,1
+41,Female,United States,No,Yes,Yes,Rarely,500-1000,Yes,Yes,6,1
+29,M,United States,No,No,Yes,Sometimes,25-Jun,No,Yes,5,1
+31,Male,Australia,No,No,Yes,Rarely,100-500,No,Yes,5,1
+39,M,United States,No,Yes,Yes,Often,26-100,Yes,Yes,6,1
+31,Female,United States,No,Yes,Yes,Rarely,100-500,No,Yes,5,1
+21,M,United States,No,Yes,No,NA,More than 1000,No,Yes,7,1
+34,M,Australia,No,No,No,Sometimes,More than 1000,No,Yes,7,1
+39,Male,United States,No,No,Yes,Sometimes,500-1000,No,Yes,5,1
+42,Make,United States,No,No,Yes,Often,More than 1000,No,Yes,6,1
+29,Male,United States,No,Yes,No,Never,100-500,No,Yes,6,1
+29,Male,United States,No,Yes,No,Often,100-500,No,Yes,5,1
+22,Male,United Kingdom,No,Yes,Yes,Sometimes,100-500,No,Yes,5,1
+23,female,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,6,1
+36,Male,Germany,No,No,No,NA,26-100,No,Yes,5,1
+57,Male,United States,No,No,No,Never,26-100,No,Yes,5,1
+30,M,United Kingdom,No,Yes,Yes,Sometimes,More than 1000,No,Yes,5,1
+20,F,Switzerland,No,No,No,Rarely,More than 1000,No,Yes,6,1
+33,female,United States,No,Yes,Yes,Rarely,More than 1000,No,Yes,7,1
+49,Male,United States,No,Yes,Yes,Sometimes,100-500,No,Yes,6,1
+33,M,United States,Yes,Yes,Yes,Rarely,05-Jan,Yes,Yes,5,1
+29,Male,United States,No,No,Yes,Often,26-100,No,Yes,5,1
+25,Male,Germany,No,No,No,NA,500-1000,No,Yes,6,1
+37,male,United States,Yes,No,No,NA,25-Jun,Yes,Yes,6,1
+35,Male,United States,No,Yes,Yes,Rarely,25-Jun,No,Yes,7,1
+36,M,United States,No,No,No,Never,More than 1000,No,Yes,7,1
+33,Female,United States,Yes,Yes,Yes,Sometimes,05-Jan,No,Yes,6,1
+39,m,Switzerland,No,No,Yes,Never,More than 1000,No,Yes,6,1
+30,Female,United States,No,No,No,NA,More than 1000,No,Yes,6,1
+39,Male,United States,No,Yes,Yes,Sometimes,500-1000,No,Yes,6,1
+36,M,United States,No,No,No,Rarely,More than 1000,No,Yes,6,1
+40,M,United States,No,No,No,Rarely,More than 1000,No,Yes,5,1
+25,M,United States,No,Yes,No,NA,More than 1000,No,Yes,7,1
+51,Male,United States,No,No,No,Never,More than 1000,Yes,Yes,7,1
+56,m,United States,No,No,Yes,Rarely,More than 1000,Yes,Yes,6,1
+30,Mail,United States,No,No,No,Never,26-100,Yes,Yes,5,1
+33,Male,United States,No,No,No,Never,More than 1000,No,Yes,7,1
+25,f,United States,Yes,No,Yes,Often,05-Jan,No,Yes,6,1
+49,Male,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,5,1
+25,female,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,5,1
+48,Male,United States,No,No,Yes,Never,More than 1000,No,Yes,7,1
+31,Male,United States,No,No,No,NA,More than 1000,Yes,Yes,7,1
+29,Male,United States,No,No,No,NA,26-100,No,Yes,5,1
+43,Cis Male,United States,No,No,Yes,Sometimes,100-500,Yes,Yes,5,1
+32,Male,United States,No,No,Yes,Rarely,More than 1000,No,Yes,5,1
+44,male,United States,No,Yes,Yes,Sometimes,25-Jun,Yes,Yes,6,1
+40,Male,United States,No,Yes,Yes,Sometimes,More than 1000,Yes,Yes,6,1
+31,F,United States,No,Yes,Yes,Sometimes,500-1000,No,Yes,5,1
+32,male,United States,No,Yes,No,Sometimes,100-500,No,Yes,5,1
+43,Male,United States,No,No,Yes,Rarely,More than 1000,No,Yes,6,1
+34,male,Netherlands,Yes,Yes,Yes,Rarely,05-Jan,Yes,Yes,6,1
+33,female,United Kingdom,Yes,No,Yes,Sometimes,05-Jan,Yes,Yes,5,1
+49,Male,United States,No,Yes,No,Never,More than 1000,No,Yes,7,1
+38,cis male,United States,No,No,No,Never,More than 1000,No,Yes,5,1
+27,Male,Canada,No,No,No,Never,26-100,No,Yes,5,1
+8,A little about you,"Bahamas, The",Yes,Yes,Yes,Often,05-Jan,Yes,Yes,9,1
+30,Female,United States,No,Yes,Yes,Sometimes,26-100,No,Yes,5,1
+35,Male,United Kingdom,No,Yes,Yes,Sometimes,05-Jan,No,Yes,5,1
+31,male,United States,No,No,No,Sometimes,More than 1000,No,Yes,6,1
+32,m,United States,No,No,No,Never,25-Jun,No,Yes,6,1
+25,female,United States,No,No,No,Never,More than 1000,No,Yes,6,1
+40,female,United States,No,Yes,No,Never,100-500,Yes,Yes,5,1
+33,Male,United States,No,No,No,NA,25-Jun,Yes,Yes,5,1
+39,Male,United Kingdom,Yes,Yes,Yes,Sometimes,05-Jan,Yes,Yes,6,1
+39,Male,United States,No,Yes,Yes,Sometimes,500-1000,No,Yes,5,1
+41,M,United States,No,No,No,Rarely,More than 1000,No,Yes,5,1
+40,Male,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,7,1
+27,Female,United States,No,Yes,Yes,Often,More than 1000,No,Yes,5,1
+32,Male,United States,No,No,Yes,Sometimes,26-100,No,Yes,5,1
+25,M,United States,No,No,Yes,Sometimes,More than 1000,No,Yes,6,1
+37,Male,United States,No,No,Yes,Sometimes,100-500,No,Yes,5,1
+33,male,Croatia,No,Yes,Yes,Sometimes,25-Jun,Yes,Yes,5,1
+32,Male,United Kingdom,Yes,No,Yes,Rarely,05-Jan,No,Yes,5,1
+-1,p,United States,Yes,Yes,Yes,Often,05-Jan,Yes,Yes,9,1
+32,Male,United States,No,No,Yes,Sometimes,More than 1000,No,Yes,5,1
+40,F,United States,No,Yes,Yes,Sometimes,26-100,No,Yes,6,1
+38,Male,United States,No,No,Yes,Sometimes,More than 1000,Yes,Yes,5,1
+23,Female,United Kingdom,No,Yes,Yes,Sometimes,25-Jun,No,Yes,5,1
+30,M,United States,No,Yes,Yes,Sometimes,26-100,No,Yes,5,1
+30,Male,United States,Yes,Yes,Yes,Often,26-100,No,Yes,5,1
+29,male,United States,No,Yes,Yes,Sometimes,100-500,Yes,Yes,5,1
+32,Male,United States,No,Yes,Yes,Often,26-100,Yes,Yes,5,1
+32,Male,Canada,NA,No,No,Rarely,25-Jun,No,Yes,1,0
+31,Male,United Kingdom,NA,Yes,Yes,Often,26-100,No,Yes,3,0
+31,Male,United States,NA,No,No,Never,100-500,Yes,Yes,2,0
+33,Male,United States,NA,Yes,No,Sometimes,25-Jun,No,Yes,2,0
+35,Female,United States,NA,Yes,Yes,Sometimes,05-Jan,Yes,Yes,0,0
+39,M,Canada,NA,No,No,Never,05-Jan,Yes,Yes,2,0
+42,Female,United States,NA,Yes,Yes,Sometimes,100-500,No,Yes,3,0
+23,Male,Canada,NA,No,No,Never,26-100,No,Yes,2,0
+31,Male,United States,NA,No,Yes,Sometimes,25-Jun,Yes,Yes,1,0
+29,male,Bulgaria,NA,No,No,Never,100-500,Yes,Yes,1,0
+36,Male,United States,NA,Yes,No,Never,500-1000,No,Yes,1,0
+27,Male,Canada,NA,No,No,Never,25-Jun,No,Yes,1,0
+29,female,United States,NA,Yes,Yes,Rarely,26-100,No,Yes,1,0
+23,Male,United Kingdom,NA,No,Yes,Sometimes,26-100,Yes,Yes,0,0
+32,Male,United States,NA,No,Yes,Sometimes,25-Jun,No,Yes,3,0
+36,Male,France,Yes,Yes,No,NA,25-Jun,Yes,Yes,2,0
+29,Male,United States,No,Yes,Yes,Sometimes,100-500,No,Yes,2,0
+31,male,United States,Yes,No,No,Never,05-Jan,Yes,Yes,2,0
+46,Male,United States,No,No,Yes,Often,26-100,Yes,Yes,3,0
+33,male,United States,No,Yes,Yes,Rarely,26-100,No,Yes,4,0
+33,male,United States,No,No,No,NA,05-Jan,No,Yes,0,0
+35,Female,United States,No,Yes,Yes,Rarely,25-Jun,Yes,Yes,4,0
+34,male,United States,No,No,Yes,Sometimes,26-100,Yes,Yes,0,0
+37,Male,United Kingdom,No,No,No,Sometimes,25-Jun,No,Yes,1,0
+32,Male,United Kingdom,No,No,No,Never,25-Jun,Yes,Yes,2,0
+31,Male,United States,Yes,Yes,No,Rarely,05-Jan,Yes,Yes,2,0
+30,male,United Kingdom,No,Yes,Yes,Sometimes,500-1000,Yes,Yes,2,0
+40,female,United States,No,No,Yes,Sometimes,05-Jan,No,Yes,3,0
+27,Male,United States,No,No,Yes,Rarely,25-Jun,No,Yes,2,0
+29,Male,Canada,No,No,No,Rarely,05-Jan,No,Yes,1,0
+38,Male,Portugal,No,No,No,NA,100-500,No,Yes,1,0
+50,M,United States,No,No,No,NA,100-500,No,Yes,3,0
+24,Male,United Kingdom,No,No,Yes,Sometimes,25-Jun,No,Yes,0,0
+35,Male,United States,No,No,No,NA,More than 1000,Yes,Yes,4,0
+27,Male,Canada,No,Yes,Yes,Sometimes,05-Jan,No,Yes,3,0
+18,Male,Netherlands,No,No,No,Often,25-Jun,No,Yes,1,0
+30,Male,United States,No,No,Yes,Sometimes,26-100,No,Yes,0,0
+28,Male,United Kingdom,No,No,No,NA,26-100,No,Yes,1,0
+34,Male,United States,No,No,No,NA,25-Jun,No,Yes,1,0
+26,m,Canada,Yes,No,No,Sometimes,05-Jan,No,Yes,4,0
+30,male,United States,No,Yes,Yes,Rarely,26-100,No,Yes,2,0
+22,M,United States,No,Yes,Yes,Often,25-Jun,No,Yes,2,0
+33,Male,United States,No,No,No,NA,100-500,Yes,Yes,1,0
+31,M,United States,No,No,No,NA,100-500,Yes,Yes,0,0
+32,Male,United States,No,No,No,Never,05-Jan,Yes,Yes,1,0
+28,M,Switzerland,No,No,No,NA,100-500,No,Yes,0,0
+27,Male-ish,United States,No,Yes,Yes,Rarely,26-100,No,Yes,3,0
+32,maile,United States,No,Yes,No,NA,25-Jun,Yes,Yes,2,0
+24,Male,United States,No,Yes,Yes,Sometimes,26-100,Yes,Yes,1,0
+33,male,Canada,No,Yes,Yes,Often,25-Jun,Yes,Yes,1,0
+27,Male,United Kingdom,No,No,No,Never,100-500,No,Yes,4,0
+26,Male,France,No,No,No,NA,26-100,No,Yes,1,0
+35,male,Canada,No,No,No,Sometimes,25-Jun,No,Yes,1,0
+23,Female,Australia,No,Yes,Yes,Often,05-Jan,Yes,Yes,2,0
+36,M,United States,No,No,No,Sometimes,100-500,Yes,Yes,3,0
+34,Male,United States,Yes,No,No,Rarely,05-Jan,Yes,Yes,0,0
+28,m,France,No,No,No,Never,26-100,No,Yes,0,0
+34,male,Canada,No,No,No,Never,25-Jun,No,Yes,1,0
+23,Trans-female,United States,No,No,No,Rarely,More than 1000,No,Yes,4,0
+38,Male,United Kingdom,No,No,No,NA,26-100,No,Yes,3,0
+33,Male,United States,No,No,No,Never,More than 1000,No,Yes,2,0
+19,Male,United Kingdom,No,No,No,NA,05-Jan,No,Yes,2,0
+31,Male,United States,Yes,Yes,No,Sometimes,05-Jan,Yes,Yes,3,0
+32,Male,United States,No,Yes,Yes,Sometimes,26-100,Yes,Yes,1,0
+28,m,Germany,No,No,No,Never,25-Jun,Yes,Yes,1,0
+38,Male,United States,No,Yes,No,Sometimes,100-500,Yes,Yes,4,0
+23,Male,United Kingdom,No,No,No,Never,26-100,No,Yes,4,0
+33,Male,United States,No,Yes,No,Never,More than 1000,No,Yes,1,0
+31,Male,United States,No,No,No,NA,26-100,No,Yes,1,0
+39,Male,United Kingdom,Yes,No,Yes,Often,25-Jun,No,Yes,0,0
+34,female,United States,No,Yes,Yes,Rarely,500-1000,Yes,Yes,2,0
+29,F,United States,No,No,Yes,Sometimes,26-100,No,Yes,2,0
+32,M,United States,No,No,No,NA,500-1000,No,Yes,0,0
+40,male,United States,No,No,Yes,Sometimes,26-100,No,Yes,3,0
+34,Male,United States,No,No,No,NA,26-100,No,Yes,0,0
+18,something kinda male?,Russia,No,No,No,NA,26-100,Yes,Yes,4,0
+25,F,Canada,No,No,Yes,Sometimes,26-100,No,Yes,3,0
+29,male,United States,No,No,No,Never,26-100,No,Yes,1,0
+24,Male,United States,No,Yes,No,Rarely,26-100,No,Yes,0,0
+31,male,Mexico,No,Yes,Yes,Sometimes,25-Jun,No,Yes,1,0
+33,Cis Male,United States,No,No,Yes,Sometimes,25-Jun,No,Yes,1,0
+30,M,United States,No,No,Yes,Often,05-Jan,No,Yes,4,0
+44,Female,United States,No,No,No,Never,100-500,No,Yes,1,0
+25,Male,United States,No,Yes,No,NA,26-100,No,Yes,1,0
+29,Male,United States,No,No,No,Never,More than 1000,No,Yes,3,0
+35,Male,United States,No,Yes,No,Rarely,25-Jun,No,Yes,3,0
+35,M,United States,No,Yes,Yes,Sometimes,26-100,Yes,Yes,1,0
+28,Male,Brazil,No,Yes,Yes,Rarely,25-Jun,No,Yes,1,0
+34,m,United States,No,Yes,No,Never,25-Jun,Yes,Yes,1,0
+22,Male,United States,No,No,Yes,Sometimes,500-1000,No,Yes,4,0
+32,Male,United States,No,No,No,Never,100-500,No,Yes,2,0
+28,male,United States,No,No,No,NA,More than 1000,No,Yes,0,0
+26,Male,United Kingdom,No,No,No,Never,25-Jun,No,Yes,0,0
+18,Male,United States,No,No,Yes,Rarely,05-Jan,Yes,Yes,1,0
+35,Male,United States,No,No,No,NA,26-100,Yes,Yes,1,0
+25,Male,United States,No,No,No,NA,26-100,Yes,Yes,1,0
+33,Male,United States,No,Yes,Yes,Sometimes,25-Jun,Yes,Yes,3,0
+36,Male,United States,No,No,No,Often,25-Jun,No,Yes,2,0
+27,Male,United Kingdom,No,No,No,NA,25-Jun,No,Yes,0,0
+31,Male,United Kingdom,No,Yes,No,Sometimes,25-Jun,No,Yes,1,0
+19,male,Slovenia,No,No,Yes,Sometimes,25-Jun,No,Yes,2,0
+33,Male,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,2,0
+32,male,United States,No,No,No,Rarely,05-Jan,Yes,Yes,1,0
+27,Male,United States,No,No,No,Never,26-100,No,Yes,1,0
+38,Male,Costa Rica,No,No,No,NA,26-100,Yes,Yes,3,0
+24,Male,Canada,No,No,Yes,Never,26-100,No,Yes,1,0
+28,Male,United Kingdom,No,No,No,Never,25-Jun,No,Yes,3,0
+39,Male,United States,No,No,Yes,Often,More than 1000,No,Yes,2,0
+29,Female,United States,No,No,No,NA,25-Jun,No,Yes,0,0
+22,m,Austria,No,No,No,NA,25-Jun,Yes,Yes,0,0
+38,Male,United States,No,Yes,Yes,Sometimes,100-500,No,Yes,1,0
+30,Female,United States,No,Yes,No,NA,More than 1000,Yes,Yes,0,0
+24,M,United Kingdom,No,No,No,Never,25-Jun,No,Yes,1,0
+30,male,Ireland,No,No,Yes,Rarely,100-500,No,Yes,4,0
+29,Female,United States,No,No,No,NA,100-500,Yes,Yes,0,0
+19,Male,Canada,Yes,Yes,No,NA,05-Jan,Yes,Yes,2,0
+32,male,United States,No,Yes,No,Never,26-100,No,Yes,0,0
+28,male,Poland,No,No,No,Rarely,25-Jun,Yes,Yes,2,0
+36,Male,United States,No,No,No,Never,25-Jun,No,Yes,0,0
+27,Male,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,0,0
+27,male,United States,No,No,Yes,Rarely,26-100,Yes,Yes,2,0
+25,Male,United States,No,Yes,Yes,Sometimes,26-100,No,Yes,0,0
+25,F,United States,No,Yes,Yes,Sometimes,500-1000,No,Yes,3,0
+31,M,United States,No,No,No,Never,More than 1000,No,Yes,2,0
+26,male,United States,No,Yes,No,Rarely,25-Jun,No,Yes,1,0
+27,Woman,United Kingdom,Yes,Yes,No,NA,05-Jan,Yes,Yes,4,0
+34,Male,United States,No,No,No,Never,26-100,No,Yes,0,0
+42,male,United States,No,No,No,NA,25-Jun,No,Yes,2,0
+23,male,Ireland,Yes,Yes,No,Sometimes,05-Jan,No,Yes,1,0
+24,Male,United Kingdom,No,No,No,Rarely,100-500,No,Yes,1,0
+26,Male,United Kingdom,No,No,Yes,Sometimes,More than 1000,No,Yes,4,0
+31,Male,United Kingdom,Yes,No,Yes,Often,25-Jun,No,Yes,1,0
+22,M,India,No,No,Yes,Never,More than 1000,No,Yes,1,0
+23,Female,United States,No,No,No,NA,25-Jun,No,Yes,2,0
+31,male,United States,No,No,No,Never,26-100,No,Yes,0,0
+32,Female,United States,No,No,Yes,Often,25-Jun,Yes,Yes,4,0
+45,F,United States,No,No,Yes,Sometimes,05-Jan,No,Yes,4,0
+33,Male,United States,No,No,No,NA,25-Jun,Yes,Yes,1,0
+29,male,Mexico,No,No,No,Never,25-Jun,Yes,Yes,1,0
+28,Female,United Kingdom,No,No,No,Never,26-100,No,Yes,2,0
+45,M,United States,No,No,Yes,Sometimes,More than 1000,No,Yes,2,0
+43,Male,United States,No,Yes,Yes,Often,More than 1000,Yes,Yes,2,0
+37,male,United States,No,No,No,NA,500-1000,Yes,Yes,2,0
+24,Male,United Kingdom,No,No,No,Sometimes,25-Jun,No,Yes,2,0
+26,Male,France,No,No,No,NA,25-Jun,Yes,Yes,2,0
+23,male,United Kingdom,No,Yes,No,NA,05-Jan,Yes,Yes,1,0
+35,Female,United States,No,Yes,Yes,Never,More than 1000,No,Yes,2,0
+38,Female,South Africa,Yes,Yes,Yes,Often,05-Jan,Yes,Yes,2,0
+28,Male,United States,No,Yes,Yes,Sometimes,26-100,No,Yes,1,0
+28,Male,Russia,No,No,No,Sometimes,26-100,No,Yes,1,0
+35,Male,United States,No,No,Yes,Rarely,25-Jun,No,Yes,2,0
+32,female,Germany,No,No,No,Sometimes,100-500,No,Yes,2,0
+31,Mal,Italy,Yes,Yes,No,Never,25-Jun,No,Yes,0,0
+35,Female,United States,No,No,No,Never,500-1000,Yes,Yes,0,0
+26,Male,United States,No,No,No,Rarely,More than 1000,No,Yes,3,0
+27,Male,United States,No,Yes,No,NA,25-Jun,Yes,Yes,3,0
+28,Male,United Kingdom,No,Yes,Yes,Sometimes,More than 1000,No,Yes,0,0
+27,Female,United States,No,Yes,Yes,Sometimes,26-100,No,Yes,2,0
+41,male,United States,No,No,Yes,Often,25-Jun,Yes,Yes,0,0
+37,Male,Ireland,No,No,No,Sometimes,05-Jan,No,Yes,2,0
+34,male,Austria,No,Yes,No,NA,100-500,Yes,Yes,2,0
+32,Male,United Kingdom,No,Yes,Yes,Sometimes,100-500,Yes,Yes,1,0
+21,Male,Canada,No,No,Yes,Sometimes,25-Jun,Yes,Yes,2,0
+30,M,United States,No,No,Yes,Often,26-100,No,Yes,3,0
+24,male,United States,No,No,No,Never,26-100,No,Yes,1,0
+26,male,Bulgaria,No,No,No,NA,100-500,No,Yes,1,0
+26,Male,United Kingdom,Yes,No,Yes,Often,05-Jan,Yes,Yes,1,0
+32,F,United States,No,Yes,Yes,Sometimes,25-Jun,No,Yes,1,0
+27,female,United States,Yes,Yes,Yes,Sometimes,05-Jan,Yes,Yes,0,0
+31,M,Canada,Yes,No,No,NA,25-Jun,No,Yes,4,0
+41,Male (CIS),United States,No,No,No,NA,26-100,No,Yes,2,0
+34,female,United States,No,No,No,NA,25-Jun,No,Yes,3,0
+33,Male,United Kingdom,No,No,No,NA,26-100,No,Yes,1,0
+28,male,United States,No,No,No,Rarely,25-Jun,No,Yes,0,0
+28,Male,United States,No,No,Yes,Sometimes,More than 1000,No,Yes,3,0
+23,Male,United States,No,No,No,Never,26-100,No,Yes,2,0
+24,M,United States,No,No,No,NA,05-Jan,No,Yes,3,0
+32,male,United States,No,No,No,Rarely,05-Jan,Yes,Yes,3,0
+24,Male,United States,No,No,No,Never,25-Jun,No,Yes,2,0
+26,male,United Kingdom,Yes,No,Yes,Sometimes,05-Jan,No,Yes,2,0
+36,Male,United States,No,No,Yes,Sometimes,26-100,No,Yes,2,0
+41,Male,United States,No,No,Yes,Rarely,500-1000,Yes,Yes,2,0
+38,Male,United States,No,No,No,Sometimes,26-100,Yes,Yes,1,0
+30,male,Netherlands,No,No,No,NA,26-100,No,Yes,2,0
+25,Male,United Kingdom,No,No,No,Never,26-100,No,Yes,1,0
+37,Male,Canada,No,Yes,Yes,Often,26-100,No,Yes,2,0
+34,Male,United Kingdom,No,Yes,No,NA,25-Jun,No,Yes,2,0
+22,Male,Sweden,No,No,No,NA,25-Jun,No,Yes,1,0
+34,male,United States,No,Yes,Yes,Sometimes,05-Jan,No,Yes,0,0
+25,Male,South Africa,No,No,No,NA,25-Jun,No,Yes,2,0
+32,M,United States,No,Yes,Yes,Sometimes,05-Jan,Yes,Yes,1,0
+28,Male,United States,No,Yes,No,NA,100-500,No,Yes,4,0
+24,Male,United States,No,No,No,Sometimes,25-Jun,No,Yes,1,0
+29,Male,Canada,No,No,No,Often,25-Jun,No,Yes,1,0
+23,Female,United Kingdom,No,No,Yes,Sometimes,25-Jun,No,Yes,1,0
+42,Male,United States,No,No,No,Never,25-Jun,Yes,Yes,4,0
+24,Male,United Kingdom,No,No,No,NA,05-Jan,No,Yes,1,0
+25,Male,Australia,No,Yes,Yes,Often,25-Jun,No,Yes,2,0
+27,Female,United States,No,No,Yes,Rarely,25-Jun,No,Yes,2,0
+27,Male,Canada,No,No,No,Sometimes,25-Jun,Yes,Yes,3,0
+29,male,Poland,No,Yes,Yes,Rarely,25-Jun,No,Yes,2,0
+43,Male,Canada,Yes,No,No,NA,25-Jun,Yes,Yes,1,0
+32,male,United States,No,No,No,NA,25-Jun,No,Yes,2,0
+41,Male,United States,No,No,Yes,Sometimes,26-100,Yes,Yes,4,0
+32,Male,United Kingdom,Yes,Yes,Yes,Sometimes,05-Jan,Yes,Yes,0,0
+37,Female,United States,No,Yes,Yes,Often,26-100,No,Yes,3,0
+32,Male,United States,No,No,No,Never,25-Jun,Yes,Yes,1,0
+30,Male,Ireland,Yes,No,No,Sometimes,05-Jan,Yes,Yes,0,0
+34,male,United Kingdom,No,No,No,Sometimes,26-100,No,Yes,1,0
+38,Male,United States,No,No,Yes,Rarely,26-100,Yes,Yes,2,0
+28,male,Colombia,No,No,No,Sometimes,25-Jun,No,Yes,1,0
+23,Male,United States,No,Yes,No,Sometimes,100-500,No,Yes,0,0
+22,Male,Australia,Yes,Yes,Yes,Sometimes,25-Jun,Yes,Yes,3,0
+27,male,Portugal,No,No,No,Never,25-Jun,No,Yes,2,0
+18,male,United States,No,No,Yes,Sometimes,25-Jun,No,Yes,1,0
+35,male,United States,No,Yes,Yes,Sometimes,26-100,No,Yes,4,0
+27,Male,United Kingdom,No,Yes,Yes,Sometimes,25-Jun,No,Yes,3,0
+26,Female,United States,No,Yes,Yes,Rarely,More than 1000,No,Yes,1,0
+18,Male,United States,No,No,No,Never,26-100,No,Yes,1,0
+38,Female,United States,No,No,Yes,Sometimes,05-Jan,No,Yes,1,0
+26,Female,United States,No,Yes,Yes,Rarely,More than 1000,Yes,Yes,3,0
+30,Male,Switzerland,Yes,No,No,Never,05-Jan,No,Yes,2,0
+35,male,United States,No,No,No,Never,More than 1000,No,Yes,1,0
+45,male,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,3,0
+32,Male,United States,No,No,No,Never,More than 1000,No,Yes,1,0
+56,Male,United States,No,No,Yes,Never,More than 1000,No,Yes,1,0
+24,Female,United States,No,No,No,NA,500-1000,No,Yes,0,0
+60,male,United States,No,No,No,NA,More than 1000,No,Yes,4,0
+33,Male,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,4,0
+31,f,United States,No,No,Yes,Sometimes,More than 1000,No,Yes,4,0
+26,Male,United States,No,No,No,Rarely,100-500,No,Yes,2,0
+26,male,Canada,No,Yes,Yes,Often,25-Jun,No,Yes,2,0
+30,queer/she/they,United States,No,Yes,Yes,Rarely,26-100,No,Yes,2,0
+26,M,United States,No,No,No,NA,26-100,No,Yes,0,0
+25,Male,United States,No,No,No,NA,26-100,Yes,Yes,1,0
+27,Male,United States,No,No,No,Sometimes,100-500,No,Yes,4,0
+35,male,United States,No,No,Yes,Rarely,100-500,No,Yes,3,0
+36,Male,United States,Yes,No,Yes,Never,05-Jan,No,Yes,3,0
+26,Male,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,2,0
+27,Male,United States,No,Yes,No,NA,More than 1000,No,Yes,2,0
+29,male,Latvia,No,No,No,NA,26-100,No,Yes,1,0
+29,Male,United States,No,No,Yes,Sometimes,More than 1000,No,Yes,2,0
+24,female,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,4,0
+25,Male,United States,No,No,Yes,Rarely,25-Jun,No,Yes,1,0
+25,m,United States,No,No,No,NA,More than 1000,No,Yes,0,0
+25,Male,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,3,0
+30,Male,United States,Yes,No,No,Never,05-Jan,Yes,Yes,1,0
+25,Male,Canada,No,Yes,Yes,Sometimes,More than 1000,No,Yes,3,0
+45,Male,Ireland,Yes,No,Yes,Often,05-Jan,No,Yes,0,0
+46,M,United States,No,No,No,Never,26-100,No,Yes,2,0
+30,Male,United Kingdom,No,No,Yes,Sometimes,26-100,No,Yes,1,0
+29,F,United States,Yes,No,No,Sometimes,More than 1000,No,Yes,1,0
+24,Male,United States,No,No,No,NA,More than 1000,No,Yes,4,0
+33,f,United States,No,Yes,No,Sometimes,26-100,Yes,Yes,2,0
+27,Male,United States,No,No,No,Sometimes,More than 1000,No,Yes,1,0
+36,Male,United States,No,No,No,NA,More than 1000,No,Yes,0,0
+33,Male,United Kingdom,No,No,No,Rarely,05-Jan,Yes,Yes,1,0
+25,F,United States,No,Yes,Yes,Sometimes,26-100,No,Yes,4,0
+54,M,United States,No,Yes,Yes,Never,More than 1000,No,Yes,3,0
+22,Male,United States,No,No,No,Sometimes,More than 1000,No,Yes,0,0
+25,non-binary,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,3,0
+30,Male,United Kingdom,No,No,No,Never,25-Jun,No,Yes,2,0
+26,male,United States,No,Yes,Yes,Often,More than 1000,No,Yes,2,0
+25,Female,Sweden,No,Yes,No,Sometimes,25-Jun,No,Yes,4,0
+33,M,United States,No,Yes,Yes,Sometimes,26-100,No,Yes,0,0
+34,M,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,4,0
+34,Male,United States,No,No,Yes,Sometimes,100-500,Yes,Yes,2,0
+29,M,United States,Yes,No,No,NA,05-Jan,Yes,Yes,4,0
+33,Femake,United States,No,No,No,NA,25-Jun,No,Yes,0,0
+34,male,Germany,Yes,Yes,Yes,Rarely,26-100,Yes,Yes,2,0
+329,Male,United States,No,No,Yes,Often,25-Jun,Yes,Yes,2,0
+28,Male,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,0,0
+36,Male,United States,No,Yes,Yes,Often,100-500,No,Yes,2,0
+21,Male,United States,No,Yes,Yes,Rarely,100-500,No,Yes,3,0
+41,m,United States,No,Yes,Yes,Often,More than 1000,No,Yes,3,0
+21,F,United States,No,Yes,Yes,Rarely,26-100,No,Yes,1,0
+45,M,United States,No,No,Yes,Never,26-100,Yes,Yes,2,0
+27,female,United States,No,No,Yes,Rarely,More than 1000,No,Yes,4,0
+25,Female,United States,No,Yes,Yes,Sometimes,26-100,Yes,Yes,2,0
+26,F,United States,No,Yes,Yes,Never,More than 1000,No,Yes,4,0
+41,Male,Canada,No,No,Yes,Never,500-1000,No,Yes,1,0
+31,Make,United States,No,Yes,Yes,Sometimes,26-100,Yes,Yes,2,0
+25,Male,Germany,No,Yes,Yes,Often,26-100,Yes,Yes,2,0
+26,M,United States,No,No,Yes,Sometimes,25-Jun,No,Yes,2,0
+27,female,United States,No,Yes,Yes,Rarely,More than 1000,Yes,Yes,3,0
+42,Male,New Zealand,No,No,No,Never,500-1000,No,Yes,1,0
+29,Nah,United States,Yes,Yes,Yes,Sometimes,05-Jan,Yes,Yes,3,0
+25,female,United States,No,No,Yes,Sometimes,25-Jun,No,Yes,1,0
+33,Female,Sweden,No,Yes,Yes,Rarely,More than 1000,No,Yes,4,0
+99999999999,All,Zimbabwe,Yes,Yes,Yes,Often,05-Jan,No,Yes,3,0
+31,Male,United States,No,No,No,Never,More than 1000,No,Yes,1,0
+26,Male,Canada,No,Yes,Yes,Often,26-100,Yes,Yes,2,0
+48,M,United Kingdom,No,No,No,NA,26-100,No,Yes,0,0
+35,Male,United Kingdom,No,No,No,Sometimes,25-Jun,No,Yes,1,0
+32,female,United States,No,No,No,Never,100-500,No,Yes,0,0
+29,Male,Canada,No,No,Yes,Sometimes,100-500,No,Yes,2,0
+26,Male,United States,No,Yes,Yes,Often,25-Jun,No,Yes,3,0
+28,Male,United States,No,Yes,Yes,Sometimes,26-100,No,Yes,2,0
+23,male,United States,No,No,No,NA,More than 1000,No,Yes,1,0
+35,M,United States,No,Yes,Yes,Sometimes,100-500,No,Yes,2,0
+29,male,Germany,No,Yes,Yes,Sometimes,26-100,No,Yes,0,0
+33,Male,United States,No,No,No,NA,More than 1000,Yes,Yes,2,0
+22,Male,Brazil,Yes,No,No,Never,25-Jun,Yes,Yes,1,0
+30,female,Spain,No,Yes,No,NA,500-1000,No,Yes,1,0
+33,male,United States,No,Yes,Yes,Often,More than 1000,Yes,Yes,3,0
+21,male,United States,No,Yes,No,Never,More than 1000,No,Yes,0,0
+31,Enby,United Kingdom,No,Yes,Yes,Sometimes,More than 1000,No,Yes,2,0
+26,F,United States,No,No,Yes,Sometimes,100-500,Yes,Yes,1,0
+30,Male,United States,No,Yes,No,Often,25-Jun,No,Yes,1,0
+30,fluid,Germany,No,Yes,Yes,Sometimes,100-500,No,Yes,1,0
+23,Male,India,No,No,No,NA,25-Jun,No,Yes,1,0
+34,Male,Finland,No,No,No,Never,25-Jun,No,Yes,1,0
+55,M,United States,No,Yes,Yes,Sometimes,05-Jan,Yes,Yes,2,0
+28,male,Germany,No,Yes,Yes,Rarely,05-Jan,Yes,Yes,4,0
+26,M,Uruguay,No,No,No,NA,26-100,Yes,Yes,0,0
+32,Male,United Kingdom,No,Yes,Yes,Sometimes,25-Jun,No,Yes,1,0
+24,Male,United States,No,Yes,Yes,Sometimes,100-500,No,Yes,2,0
+28,Male,Canada,Yes,No,No,Never,100-500,Yes,Yes,2,0
+24,F,United States,No,Yes,Yes,Rarely,25-Jun,No,Yes,2,0
+33,male,United States,Yes,No,Yes,Often,05-Jan,Yes,Yes,2,0
+34,male,United States,No,No,No,Sometimes,26-100,No,Yes,1,0
+27,female,United States,No,No,Yes,Sometimes,26-100,No,Yes,0,0
+28,Male,United States,No,No,No,Never,25-Jun,No,Yes,1,0
+26,Male,United States,No,No,No,NA,More than 1000,No,Yes,1,0
+20,Male,Australia,No,No,No,NA,100-500,Yes,Yes,2,0
+23,female,United States,No,No,Yes,Sometimes,26-100,No,Yes,2,0
+26,Male,United Kingdom,No,Yes,No,Sometimes,25-Jun,No,Yes,0,0
+36,Male,United States,No,No,No,Rarely,More than 1000,Yes,Yes,2,0
+33,female,United States,No,No,No,NA,100-500,Yes,Yes,3,0
+39,Male,United States,No,Yes,No,Often,More than 1000,No,Yes,2,0
+34,M,United States,No,Yes,No,NA,More than 1000,No,Yes,1,0
+26,F,United States,No,No,Yes,Sometimes,100-500,No,Yes,3,0
+24,Male,United States,No,No,Yes,Rarely,26-100,No,Yes,4,0
+30,male,United States,No,Yes,Yes,Often,More than 1000,No,Yes,4,0
+34,M,United States,No,No,Yes,Sometimes,25-Jun,No,Yes,2,0
+27,Male,United States,No,Yes,Yes,Sometimes,100-500,No,Yes,1,0
+36,Male,United States,No,No,No,Sometimes,More than 1000,No,Yes,2,0
+27,Male,Brazil,No,No,No,Rarely,25-Jun,No,Yes,1,0
+35,Male,Netherlands,No,Yes,No,Never,100-500,No,Yes,3,0
+32,Male,United Kingdom,No,No,No,Never,25-Jun,No,Yes,1,0
+37,M,United States,No,No,No,NA,500-1000,No,Yes,1,0
+29,Male,United Kingdom,No,No,No,NA,26-100,No,Yes,2,0
+28,Make,United States,No,No,No,Sometimes,25-Jun,Yes,Yes,2,0
+26,Female,United States,No,Yes,No,Never,26-100,No,Yes,0,0
+27,M,United States,No,Yes,Yes,Sometimes,25-Jun,Yes,Yes,4,0
+38,Male,United Kingdom,Yes,No,Yes,Sometimes,26-100,Yes,Yes,3,0
+57,M,United States,No,Yes,Yes,Rarely,More than 1000,No,Yes,3,0
+28,Male,United Kingdom,No,No,Yes,Sometimes,More than 1000,No,Yes,1,0
+26,male,France,No,No,No,Never,25-Jun,No,Yes,2,0
+42,f,Netherlands,No,No,Yes,Rarely,100-500,Yes,Yes,4,0
+29,Male,United States,No,No,No,Sometimes,25-Jun,No,Yes,1,0
+39,Female,United Kingdom,No,No,Yes,Sometimes,More than 1000,No,Yes,4,0
+34,Male,United States,No,No,No,Sometimes,25-Jun,Yes,Yes,1,0
+57,Male,United States,No,No,Yes,Sometimes,More than 1000,No,Yes,3,0
+27,Male,Germany,No,Yes,Yes,Sometimes,25-Jun,No,Yes,1,0
+23,male,Germany,Yes,Yes,Yes,Often,26-100,Yes,Yes,1,0
+30,female,United States,No,No,No,NA,100-500,No,Yes,1,0
+18,Female,United Kingdom,No,Yes,Yes,Sometimes,05-Jan,Yes,Yes,0,0
+29,male,United States,No,No,Yes,Rarely,25-Jun,No,Yes,2,0
+48,M,United States,No,No,No,Never,25-Jun,No,Yes,0,0
+28,Female,United States,No,Yes,Yes,Sometimes,26-100,No,Yes,1,0
+30,Male,United States,Yes,Yes,Yes,Often,05-Jan,Yes,Yes,4,0
+26,Male,Israel,No,No,No,Sometimes,25-Jun,No,Yes,3,0
+31,Male,United States,No,No,No,NA,More than 1000,No,Yes,3,0
+27,Male,Israel,No,No,No,NA,26-100,No,Yes,1,0
+24,Female,United States,Yes,Yes,Yes,Sometimes,05-Jan,Yes,Yes,0,0
+25,male,United States,No,No,No,NA,26-100,No,Yes,0,0
+23,Female,United States,No,Yes,Yes,Often,More than 1000,No,Yes,2,0
+25,female,United States,Yes,Yes,Yes,Often,05-Jan,Yes,Yes,2,0
+34,Male,Netherlands,No,No,No,Rarely,25-Jun,No,Yes,1,0
+38,female,United States,No,No,Yes,NA,26-100,No,Yes,3,0
+40,Male,Ireland,Yes,Yes,No,NA,More than 1000,No,Yes,1,0
+32,male,United Kingdom,No,No,No,NA,26-100,No,Yes,0,0
+35,Female,United States,No,No,Yes,Sometimes,100-500,No,Yes,2,0
+32,male,United Kingdom,No,Yes,Yes,Sometimes,25-Jun,Yes,Yes,3,0
+33,Female,United States,No,No,Yes,Sometimes,500-1000,Yes,Yes,4,0
+25,f,United States,No,No,No,Sometimes,25-Jun,No,Yes,1,0
+29,M,United States,No,No,No,NA,More than 1000,No,Yes,0,0
+43,Male,United States,No,No,No,NA,25-Jun,Yes,Yes,0,0
+34,Male,United Kingdom,No,Yes,Yes,Often,26-100,No,Yes,3,0
+25,Male,Bosnia and Herzegovina,No,Yes,No,Rarely,26-100,Yes,Yes,1,0
+36,M,United States,Yes,Yes,Yes,Sometimes,05-Jan,Yes,Yes,4,0
+24,male,Austria,Yes,No,No,Sometimes,05-Jan,No,Yes,4,0
+51,Male,New Zealand,No,No,Yes,Sometimes,26-100,Yes,Yes,4,0
+31,Female,Canada,Yes,Yes,Yes,Sometimes,100-500,Yes,Yes,2,0
+27,Male,United Kingdom,No,No,No,NA,25-Jun,No,Yes,1,0
+27,female,Hungary,Yes,Yes,No,Sometimes,05-Jan,Yes,Yes,1,0
+23,Male,Sweden,No,No,No,Rarely,25-Jun,No,Yes,2,0
+21,Male,Canada,No,No,No,Never,26-100,No,Yes,1,0
+27,Female,Australia,No,Yes,Yes,Sometimes,25-Jun,No,Yes,2,0
+26,M,United States,No,Yes,Yes,Never,More than 1000,No,Yes,0,0
+27,Male,United Kingdom,No,No,No,Never,25-Jun,No,Yes,0,0
+22,Female,United States,No,Yes,Yes,Sometimes,500-1000,No,Yes,2,0
+32,male,United Kingdom,No,No,No,Never,25-Jun,No,Yes,2,0
+28,female,United States,No,Yes,Yes,Often,100-500,Yes,Yes,3,0
+28,Androgyne,United Kingdom,No,Yes,Yes,Rarely,100-500,No,Yes,3,0
+23,female,United Kingdom,No,No,No,NA,25-Jun,No,Yes,1,0
+30,Male,United Kingdom,No,No,No,Never,26-100,Yes,Yes,2,0
+36,Male,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,4,0
+30,male,Germany,No,No,No,Often,26-100,No,Yes,0,0
+32,Male,New Zealand,No,No,Yes,Sometimes,25-Jun,No,Yes,1,0
+29,female,Canada,No,No,Yes,Sometimes,05-Jan,No,Yes,1,0
+21,Agender,United Kingdom,No,No,Yes,Sometimes,26-100,No,Yes,4,0
+27,Female,New Zealand,No,Yes,Yes,Rarely,100-500,Yes,Yes,0,0
+33,M,United States,No,No,No,NA,26-100,No,Yes,1,0
+22,Male,Netherlands,No,Yes,Yes,Sometimes,25-Jun,Yes,Yes,2,0
+24,M,United States,No,No,No,NA,More than 1000,No,Yes,1,0
+27,Male,United States,No,Yes,Yes,Sometimes,100-500,Yes,Yes,1,0
+33,Male,Australia,No,No,No,Never,More than 1000,No,Yes,3,0
+36,Male,United States,No,No,Yes,Rarely,26-100,No,Yes,0,0
+40,Male,Canada,No,No,No,Never,26-100,No,Yes,0,0
+28,male,United States,No,No,Yes,Sometimes,More than 1000,No,Yes,3,0
+32,Male,United States,No,No,Yes,Sometimes,More than 1000,No,Yes,2,0
+31,male,United States,No,Yes,No,Sometimes,More than 1000,No,Yes,1,0
+38,Make,United States,No,Yes,Yes,Sometimes,100-500,No,Yes,0,0
+23,Male,United States,No,Yes,Yes,Rarely,05-Jan,No,Yes,3,0
+27,Female,United States,No,No,No,Sometimes,500-1000,No,Yes,3,0
+26,Female,United States,No,Yes,Yes,Sometimes,26-100,No,Yes,4,0
+50,Male,United States,No,No,No,Never,26-100,Yes,Yes,1,0
+37,Male,United States,No,Yes,No,Never,26-100,No,Yes,2,0
+23,Male,United States,No,No,No,NA,26-100,No,Yes,1,0
+33,M,United States,No,Yes,No,Sometimes,25-Jun,Yes,Yes,3,0
+29,male,Canada,Yes,No,No,Never,26-100,Yes,Yes,4,0
+41,male,United States,No,Yes,Yes,Often,More than 1000,No,Yes,1,0
+50,Male,United States,No,Yes,No,NA,100-500,Yes,Yes,1,0
+35,Male,United States,No,No,No,Never,25-Jun,No,Yes,4,0
+27,Male,Singapore,No,No,No,Sometimes,05-Jan,Yes,Yes,3,0
+27,Male,Australia,No,No,Yes,Often,100-500,Yes,Yes,0,0
+29,f,United States,No,No,No,Never,26-100,No,Yes,4,0
+31,Male,United States,No,Yes,Yes,Sometimes,25-Jun,No,Yes,1,0
+43,Male,United States,No,No,Yes,Sometimes,25-Jun,No,Yes,2,0
+34,Male,United States,No,Yes,Yes,Sometimes,26-100,Yes,Yes,2,0
+29,Male,United States,No,Yes,Yes,Sometimes,26-100,No,Yes,1,0
+19,Male,Canada,No,Yes,Yes,Sometimes,05-Jan,No,Yes,0,0
+41,m,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,3,0
+23,Male,United States,No,No,No,Rarely,100-500,No,Yes,2,0
+24,Female,United States,No,Yes,Yes,Sometimes,100-500,No,Yes,2,0
+31,M,United States,No,No,No,NA,26-100,Yes,Yes,1,0
+43,Male,United States,No,No,No,NA,500-1000,Yes,Yes,2,0
+31,Male,United States,No,Yes,Yes,Rarely,100-500,No,Yes,2,0
+35,Male,United States,Yes,Yes,No,NA,25-Jun,Yes,Yes,4,0
+27,male,United States,No,No,No,NA,More than 1000,No,Yes,2,0
+32,Male,United States,No,No,No,Sometimes,100-500,No,Yes,1,0
+50,Male,United States,No,No,No,Sometimes,05-Jan,Yes,Yes,1,0
+27,Male,United States,No,No,No,NA,26-100,No,Yes,2,0
+27,Male,Australia,No,No,No,Never,05-Jan,Yes,Yes,1,0
+32,Male,United States,No,No,Yes,Sometimes,25-Jun,No,Yes,4,0
+30,Male,Singapore,No,No,No,Sometimes,26-100,No,Yes,0,0
+29,Male,United States,No,No,No,Rarely,More than 1000,No,Yes,2,0
+30,Male,United States,Yes,No,Yes,Often,25-Jun,Yes,Yes,3,0
+35,Male,United States,No,No,No,Never,26-100,No,Yes,3,0
+38,male,Netherlands,No,Yes,No,Often,26-100,Yes,Yes,0,0
+24,m,Germany,No,Yes,No,Sometimes,100-500,No,Yes,0,0
+22,M,Netherlands,Yes,No,No,Never,05-Jan,No,Yes,1,0
+31,Female,United States,No,No,Yes,Often,26-100,Yes,Yes,2,0
+31,Female,United States,No,Yes,Yes,Sometimes,100-500,No,Yes,0,0
+28,Female,United States,No,Yes,Yes,Rarely,500-1000,No,Yes,4,0
+34,male,United States,Yes,Yes,Yes,Sometimes,25-Jun,No,Yes,2,0
+32,male leaning androgynous,Canada,No,No,No,Sometimes,26-100,Yes,Yes,3,0
+28,Male,United States,No,Yes,Yes,Sometimes,26-100,Yes,Yes,2,0
+24,Female,United Kingdom,No,No,Yes,Sometimes,100-500,No,Yes,0,0
+56,Male ,United States,No,Yes,Yes,Rarely,25-Jun,No,Yes,3,0
+31,Male,Germany,No,No,No,Sometimes,25-Jun,Yes,Yes,2,0
+34,female,United States,No,No,Yes,Sometimes,100-500,Yes,Yes,4,0
+28,male,Germany,No,No,No,Never,26-100,No,Yes,0,0
+36,male,Poland,Yes,Yes,Yes,Often,25-Jun,No,Yes,2,0
+30,Male,United Kingdom,No,No,Yes,Often,26-100,No,Yes,3,0
+35,Male,United States,Yes,No,No,NA,05-Jan,Yes,Yes,4,0
+49,male,Japan,Yes,Yes,Yes,Sometimes,05-Jan,Yes,Yes,4,0
+35,male,Germany,No,No,No,NA,26-100,No,Yes,0,0
+37,Male,Ireland,Yes,No,No,Never,25-Jun,No,Yes,1,0
+25,Male,Ireland,No,Yes,Yes,Sometimes,26-100,No,Yes,0,0
+30,Male,Australia,No,No,No,Sometimes,26-100,No,Yes,0,0
+22,Female,Netherlands,No,No,No,Often,25-Jun,No,Yes,0,0
+29,Male,United Kingdom,No,Yes,Yes,Never,100-500,No,Yes,0,0
+54,male,United Kingdom,Yes,Yes,Yes,Sometimes,05-Jan,Yes,Yes,1,0
+25,Male,Nigeria,No,No,No,NA,25-Jun,No,Yes,1,0
+29,male,Poland,No,No,No,Rarely,05-Jan,No,Yes,1,0
+32,male,Germany,Yes,No,No,Never,05-Jan,Yes,Yes,1,0
+31,male,Germany,No,No,No,NA,25-Jun,No,Yes,1,0
+27,Male,United Kingdom,No,No,No,Never,05-Jan,No,Yes,1,0
+32,Male,United States,No,No,No,Never,More than 1000,No,Yes,0,0
+26,Male,Ireland,Yes,No,No,Never,05-Jan,Yes,Yes,2,0
+30,Male,Ireland,No,No,Yes,Sometimes,26-100,Yes,Yes,0,0
+22,male,India,Yes,No,No,NA,05-Jan,Yes,Yes,1,0
+24,male,Ireland,No,No,No,NA,More than 1000,No,Yes,0,0
+26,m,Netherlands,No,No,No,Never,26-100,No,Yes,0,0
+43,male,France,No,No,No,NA,100-500,No,Yes,1,0
+26,Male,Russia,No,No,No,Never,26-100,No,Yes,0,0
+23,Male,United States,No,Yes,No,Sometimes,25-Jun,No,Yes,0,0
+26,Man,Canada,No,No,No,NA,100-500,Yes,Yes,3,0
+26,female,Israel,No,Yes,No,Never,100-500,No,Yes,1,0
+35,Male,Canada,No,Yes,No,Sometimes,26-100,No,Yes,0,0
+22,Male,India,No,No,No,NA,26-100,No,Yes,1,0
+29,Female,United States,No,Yes,Yes,Rarely,25-Jun,No,Yes,1,0
+29,Male,Germany,Yes,No,No,NA,05-Jan,No,Yes,4,0
+45,Male,United States,No,No,Yes,Often,05-Jan,Yes,Yes,4,0
+33,male,Bulgaria,No,No,Yes,Rarely,26-100,Yes,Yes,0,0
+21,Female,United Kingdom,No,No,No,NA,25-Jun,No,Yes,1,0
+23,Female,India,No,Yes,Yes,Sometimes,More than 1000,No,Yes,1,0
+28,Male,United States,No,No,No,NA,26-100,Yes,Yes,0,0
+27,f,United Kingdom,No,No,Yes,Sometimes,25-Jun,Yes,Yes,4,0
+23,male,Canada,No,No,Yes,Sometimes,25-Jun,No,Yes,1,0
+29,M,Netherlands,No,No,No,Never,05-Jan,Yes,Yes,3,0
+30,m,Germany,No,No,No,NA,26-100,No,Yes,1,0
+28,Female,Canada,No,No,No,NA,More than 1000,No,Yes,2,0
+32,Male,United Kingdom,No,No,No,NA,25-Jun,No,Yes,1,0
+37,Male,France,No,No,No,NA,100-500,No,Yes,0,0
+31,male,France,No,No,No,NA,500-1000,No,Yes,1,0
+29,Male,United States,No,No,No,NA,25-Jun,No,Yes,0,0
+37,male,United States,No,Yes,Yes,Sometimes,100-500,No,Yes,4,0
+32,Male,United Kingdom,No,No,Yes,Rarely,100-500,No,Yes,1,0
+26,Male,United States,No,No,No,Never,26-100,No,Yes,2,0
+32,Male,United States,Yes,No,Yes,Sometimes,05-Jan,Yes,Yes,1,0
+37,F,United States,No,No,No,NA,26-100,Yes,Yes,1,0
+34,Male,United Kingdom,No,No,No,NA,25-Jun,No,Yes,1,0
+27,male,France,No,No,No,NA,25-Jun,No,Yes,2,0
+30,male,United States,No,Yes,No,Never,100-500,No,Yes,1,0
+29,Male,United States,No,No,No,Never,25-Jun,No,Yes,4,0
+32,Male,United States,Yes,Yes,Yes,Sometimes,05-Jan,Yes,Yes,3,0
+29,Male,Netherlands,No,Yes,No,NA,25-Jun,No,Yes,2,0
+27,Man,United States,No,No,No,NA,26-100,No,Yes,2,0
+33,Male,United Kingdom,No,No,No,NA,25-Jun,No,Yes,0,0
+29,male,Canada,No,No,No,NA,05-Jan,Yes,Yes,2,0
+25,Male,United States,No,Yes,Yes,Never,25-Jun,Yes,Yes,3,0
+31,Male,South Africa,No,No,No,Never,100-500,Yes,Yes,0,0
+21,male,Germany,No,No,No,Rarely,25-Jun,Yes,Yes,0,0
+30,Male,Switzerland,No,Yes,Yes,Sometimes,26-100,No,Yes,2,0
+43,Male,Croatia,Yes,No,Yes,Sometimes,05-Jan,Yes,Yes,2,0
+37,m,United Kingdom,No,No,Yes,Often,25-Jun,No,Yes,2,0
+24,Male,France,No,No,No,NA,26-100,No,Yes,1,0
+29,Male,United States,No,No,No,NA,25-Jun,Yes,Yes,1,0
+5,Male,United States,No,No,No,NA,100-500,No,Yes,2,0
+33,Male,United Kingdom,No,No,Yes,Sometimes,26-100,No,Yes,0,0
+27,Male,United Kingdom,No,No,No,NA,25-Jun,No,Yes,3,0
+37,male,Australia,No,Yes,Yes,Sometimes,26-100,No,Yes,4,0
+32,male,Belgium,No,No,No,NA,25-Jun,No,Yes,2,0
+39,Male,United Kingdom,No,No,Yes,Sometimes,100-500,No,Yes,1,0
+31,Male,United States,No,Yes,Yes,Sometimes,26-100,No,Yes,3,0
+36,Male,United States,No,No,Yes,Sometimes,100-500,Yes,Yes,2,0
+30,Male,United States,Yes,No,Yes,Sometimes,26-100,Yes,Yes,0,0
+28,male,Canada,No,No,No,NA,25-Jun,No,Yes,4,0
+32,Male,Italy,No,No,No,NA,25-Jun,No,Yes,0,0
+19,Male,Canada,No,No,Yes,Sometimes,26-100,No,Yes,1,0
+33,m,Norway,No,Yes,No,NA,26-100,No,Yes,3,0
+42,male,Germany,No,No,No,NA,More than 1000,Yes,Yes,4,0
+37,Male,United States,No,Yes,Yes,Sometimes,100-500,No,Yes,0,0
+40,Male,Thailand,Yes,No,No,Never,25-Jun,No,Yes,3,0
+26,M,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,3,0
+34,male,Germany,No,No,No,Rarely,26-100,No,Yes,2,0
+31,Male,Canada,Yes,Yes,No,Sometimes,05-Jan,Yes,Yes,3,0
+37,Male,Ireland,No,Yes,Yes,Sometimes,05-Jan,No,Yes,2,0
+38,Male,Ireland,No,Yes,Yes,Sometimes,05-Jan,No,Yes,2,0
+27,Female,United States,No,No,Yes,Sometimes,100-500,No,Yes,2,0
+39,Male,Netherlands,Yes,No,No,NA,25-Jun,No,Yes,4,0
+27,Male,United Kingdom,No,No,No,Never,26-100,No,Yes,0,0
+36,F,United States,No,No,Yes,Never,25-Jun,Yes,Yes,1,0
+28,Male,United Kingdom,No,No,No,Never,26-100,No,Yes,1,0
+33,Male,United States,Yes,Yes,Yes,Sometimes,05-Jan,Yes,Yes,4,0
+37,Male,United Kingdom,No,Yes,Yes,Rarely,25-Jun,No,Yes,3,0
+43,msle,United States,No,No,No,Sometimes,25-Jun,Yes,Yes,0,0
+27,Female,United States,No,No,No,NA,More than 1000,No,Yes,2,0
+31,Female,United Kingdom,No,No,No,NA,25-Jun,No,Yes,1,0
+43,Male,United Kingdom,No,No,Yes,Never,26-100,No,Yes,1,0
+33,Male,United States,No,No,Yes,Sometimes,25-Jun,Yes,Yes,3,0
+34,male,United Kingdom,No,Yes,Yes,Sometimes,More than 1000,No,Yes,3,0
+33,M,United States,Yes,No,No,NA,05-Jan,No,Yes,1,0
+25,Male,United States,No,No,No,NA,25-Jun,No,Yes,1,0
+32,Male,United Kingdom,Yes,Yes,No,NA,05-Jan,No,Yes,3,0
+25,Male,United States,No,Yes,Yes,Sometimes,26-100,No,Yes,3,0
+29,M,United Kingdom,No,No,No,Rarely,100-500,No,Yes,1,0
+33,Male,United States,No,No,Yes,Sometimes,More than 1000,No,Yes,2,0
+37,female,United States,No,No,Yes,Often,25-Jun,Yes,Yes,2,0
+22,Female,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,1,0
+38,Male,United States,No,No,No,Never,26-100,No,Yes,3,0
+32,Female,United States,No,Yes,Yes,Often,100-500,No,Yes,3,0
+28,Male,Brazil,No,No,No,NA,26-100,No,Yes,1,0
+27,Male,Switzerland,No,Yes,No,NA,26-100,No,Yes,1,0
+35,female,United States,No,No,Yes,Sometimes,100-500,Yes,Yes,1,0
+23,Male,United States,No,Yes,Yes,Sometimes,25-Jun,No,Yes,3,0
+39,M,United States,No,No,No,NA,26-100,Yes,Yes,2,0
+32,M,United Kingdom,No,No,No,NA,26-100,No,Yes,0,0
+28,Female (trans),United States,No,No,Yes,Sometimes,26-100,No,Yes,2,0
+36,f,United States,No,Yes,No,NA,25-Jun,No,Yes,1,0
+27,Male,United States,No,No,No,NA,26-100,Yes,Yes,2,0
+41,Male,United States,No,Yes,No,Sometimes,More than 1000,No,Yes,3,0
+29,Male,United Kingdom,No,No,No,Never,25-Jun,No,Yes,0,0
+29,m,United Kingdom,No,No,Yes,Sometimes,100-500,No,Yes,0,0
+28,Male,United States,No,No,Yes,Never,25-Jun,Yes,Yes,1,0
+36,F,United Kingdom,Yes,No,No,Sometimes,05-Jan,Yes,Yes,0,0
+39,Female,United States,No,No,No,Sometimes,26-100,No,Yes,1,0
+44,male,United States,Yes,Yes,Yes,Sometimes,05-Jan,Yes,Yes,4,0
+26,queer,Germany,Yes,No,Yes,Sometimes,25-Jun,Yes,Yes,4,0
+35,Male,Denmark,Yes,Yes,Yes,Often,05-Jan,No,Yes,3,0
+35,Male,Denmark,Yes,Yes,Yes,Often,05-Jan,No,Yes,3,0
+38,M,United States,No,No,No,Never,More than 1000,Yes,Yes,3,0
+34,Male,United States,No,No,No,NA,More than 1000,Yes,Yes,2,0
+43,M,United States,No,No,No,NA,More than 1000,No,Yes,4,0
+48,Female (cis),United States,No,Yes,No,Often,26-100,No,Yes,2,0
+20,Male,United States,No,No,No,Never,26-100,No,Yes,2,0
+40,M,United States,Yes,No,No,Sometimes,05-Jan,Yes,Yes,1,0
+29,female,United Kingdom,No,No,Yes,Rarely,25-Jun,No,Yes,0,0
+40,M,United States,No,No,No,Never,100-500,No,Yes,1,0
+29,Male,Sweden,No,No,Yes,Rarely,25-Jun,No,Yes,4,0
+29,F,United States,No,Yes,Yes,Rarely,100-500,No,Yes,2,0
+34,male,United States,No,No,Yes,Sometimes,05-Jan,No,Yes,1,0
+24,female,United States,No,Yes,Yes,Often,25-Jun,No,Yes,4,0
+47,F,United States,No,No,No,NA,100-500,Yes,Yes,2,0
+36,male,United Kingdom,Yes,No,No,Sometimes,25-Jun,Yes,Yes,1,0
+31,Female,United States,No,Yes,Yes,Sometimes,100-500,No,Yes,3,0
+35,Male,United States,No,No,No,Sometimes,More than 1000,No,Yes,1,0
+37,Male,Italy,No,No,No,Sometimes,26-100,No,Yes,2,0
+34,M,United States,No,No,Yes,Sometimes,100-500,No,Yes,2,0
+36,Male,Netherlands,Yes,No,Yes,Sometimes,05-Jan,No,Yes,1,0
+40,m,United States,Yes,Yes,Yes,Sometimes,05-Jan,Yes,Yes,4,0
+42,Male,United States,No,No,Yes,Sometimes,05-Jan,Yes,Yes,1,0
+23,M,United States,No,Yes,No,NA,26-100,Yes,Yes,3,0
+26,Male,Canada,No,No,No,Sometimes,25-Jun,Yes,Yes,1,0
+31,Male,United States,No,Yes,No,NA,25-Jun,No,Yes,0,0
+24,Male,United States,No,No,No,NA,25-Jun,No,Yes,2,0
+33,Male,United States,No,No,No,NA,100-500,No,Yes,1,0
+26,Male,United Kingdom,Yes,No,Yes,Rarely,05-Jan,Yes,Yes,2,0
+33,Male,United States,No,Yes,Yes,Often,25-Jun,Yes,Yes,3,0
+34,male,United Kingdom,No,No,No,NA,25-Jun,Yes,Yes,1,0
+35,M,United States,No,Yes,Yes,Sometimes,25-Jun,No,Yes,2,0
+39,M,United States,No,No,No,NA,05-Jan,Yes,Yes,2,0
+32,male,Germany,Yes,No,No,Sometimes,05-Jan,Yes,Yes,2,0
+43,Male,Mexico,Yes,No,No,NA,More than 1000,Yes,Yes,1,0
+32,Female,United Kingdom,No,Yes,Yes,Sometimes,100-500,No,Yes,0,0
+39,Male,United States,No,No,No,NA,More than 1000,Yes,Yes,1,0
+30,m,United States,Yes,Yes,Yes,Sometimes,25-Jun,Yes,Yes,1,0
+31,Male,United States,No,No,No,NA,26-100,No,Yes,3,0
+31,male,United States,No,No,Yes,Never,26-100,No,Yes,3,0
+29,Male,United States,No,Yes,Yes,Sometimes,26-100,No,Yes,1,0
+37,Male,United States,No,No,No,Never,500-1000,Yes,Yes,4,0
+36,male,United States,Yes,No,No,Never,05-Jan,No,Yes,3,0
+35,Male,United States,No,Yes,Yes,Sometimes,26-100,Yes,Yes,2,0
+31,Male,United Kingdom,No,No,Yes,Rarely,25-Jun,No,Yes,1,0
+26,Male,India,Yes,No,No,NA,100-500,No,Yes,3,0
+39,Male,United States,No,Yes,No,Sometimes,More than 1000,No,Yes,4,0
+32,Male,United States,Yes,Yes,Yes,Rarely,05-Jan,Yes,Yes,2,0
+29,m,United States,No,Yes,No,NA,100-500,No,Yes,1,0
+30,Male,United States,No,Yes,No,Never,100-500,No,Yes,4,0
+40,M,United States,No,Yes,Yes,Often,500-1000,Yes,Yes,0,0
+34,male,Germany,Yes,No,Yes,Sometimes,05-Jan,Yes,Yes,1,0
+50,Male,United States,Yes,No,No,Never,05-Jan,Yes,Yes,4,0
+24,Male,United States,No,No,No,Sometimes,26-100,Yes,Yes,1,0
+43,Male,United Kingdom,No,Yes,Yes,Rarely,26-100,No,Yes,2,0
+24,Male,United Kingdom,Yes,No,No,NA,05-Jan,Yes,Yes,3,0
+51,m,United States,Yes,No,No,Never,05-Jan,No,Yes,2,0
+30,Male,United States,No,No,No,NA,More than 1000,Yes,Yes,4,0
+36,Male,United States,No,No,Yes,Rarely,500-1000,Yes,Yes,2,0
+48,male,Australia,No,No,Yes,Sometimes,25-Jun,No,Yes,1,0
+53,Male,United States,No,No,Yes,Rarely,25-Jun,Yes,Yes,3,0
+24,Female,United Kingdom,No,Yes,Yes,Often,25-Jun,Yes,Yes,1,0
+33,Male,United States,No,Yes,Yes,Sometimes,26-100,No,Yes,3,0
+25,Female,Canada,No,Yes,Yes,Sometimes,25-Jun,No,Yes,4,0
+30,Male,United Kingdom,No,No,Yes,Sometimes,26-100,No,Yes,1,0
+30,Male,United States,Yes,No,No,Never,05-Jan,Yes,Yes,2,0
+34,male,United Kingdom,Yes,No,Yes,Sometimes,05-Jan,Yes,Yes,2,0
+22,F,United States,No,Yes,Yes,Often,More than 1000,No,Yes,2,0
+28,Male,United States,No,Yes,No,Sometimes,25-Jun,No,Yes,1,0
+33,Male,United States,No,Yes,No,NA,500-1000,No,Yes,3,0
+29,male,United States,No,No,No,Sometimes,More than 1000,No,Yes,3,0
+25,Male,United States,No,No,No,NA,100-500,Yes,Yes,3,0
+31,Male,United States,No,Yes,No,Never,100-500,No,Yes,1,0
+34,male,United States,No,No,No,Often,05-Jan,No,Yes,3,0
+38,Male,United States,No,Yes,Yes,Sometimes,100-500,No,Yes,2,0
+26,Male,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,2,0
+42,Male,United States,No,No,Yes,Often,25-Jun,No,Yes,1,0
+33,Male,Netherlands,No,Yes,Yes,NA,25-Jun,No,Yes,2,0
+28,Male,United States,No,Yes,Yes,Rarely,More than 1000,No,Yes,2,0
+28,Male,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,0,0
+39,Male,United States,No,Yes,Yes,Often,26-100,No,Yes,4,0
+35,Male,United States,No,No,Yes,Sometimes,More than 1000,No,Yes,3,0
+40,Male,United States,No,Yes,Yes,Sometimes,25-Jun,No,Yes,3,0
+34,Male,Netherlands,No,No,Yes,Rarely,26-100,No,Yes,4,0
+61,male,South Africa,Yes,No,Yes,Sometimes,05-Jan,Yes,Yes,2,0
+36,Female ,United States,No,Yes,Yes,Rarely,25-Jun,No,Yes,1,0
+38,Male,United States,No,No,No,NA,25-Jun,No,Yes,2,0
+33,male,Germany,No,Yes,Yes,Often,26-100,No,Yes,4,0
+26,Male,United States,No,No,Yes,Rarely,More than 1000,No,Yes,1,0
+33,M,United Kingdom,No,No,No,NA,More than 1000,No,Yes,1,0
+32,Male,United Kingdom,No,No,No,NA,25-Jun,No,Yes,1,0
+25,male,Germany,Yes,No,No,Sometimes,25-Jun,Yes,Yes,4,0
+24,M,United Kingdom,Yes,Yes,No,Often,05-Jan,Yes,Yes,0,0
+33,Male,United Kingdom,Yes,Yes,Yes,Sometimes,05-Jan,Yes,Yes,2,0
+26,Female,United Kingdom,Yes,Yes,Yes,Sometimes,05-Jan,Yes,Yes,2,0
+25,Male,United Kingdom,No,No,No,Never,25-Jun,Yes,Yes,1,0
+43,Male,United States,No,No,No,Sometimes,More than 1000,Yes,Yes,1,0
+30,Male,United Kingdom,Yes,No,Yes,Sometimes,25-Jun,No,Yes,4,0
+40,Male,United States,No,Yes,Yes,Rarely,25-Jun,No,Yes,1,0
+29,Male,Germany,No,No,No,NA,25-Jun,No,Yes,1,0
+26,male,Germany,No,No,No,NA,500-1000,No,Yes,0,0
+26,male,Belgium,No,No,No,Never,25-Jun,No,Yes,1,0
+28,Male,United Kingdom,No,Yes,Yes,Often,26-100,No,Yes,1,0
+40,Male,United States,No,Yes,Yes,Sometimes,05-Jan,Yes,Yes,1,0
+37,Female,Canada,Yes,Yes,Yes,Rarely,05-Jan,Yes,Yes,3,0
+28,male,United States,No,Yes,Yes,Often,100-500,No,Yes,0,0
+29,Male,United Kingdom,No,No,Yes,Sometimes,25-Jun,Yes,Yes,2,0
+39,Female,United Kingdom,No,Yes,No,Rarely,500-1000,Yes,Yes,2,0
+28,male,United Kingdom,No,No,No,Often,25-Jun,No,Yes,2,0
+23,Male,United States,No,Yes,No,Sometimes,26-100,No,Yes,4,0
+38,Male,United Kingdom,No,No,No,NA,05-Jan,Yes,Yes,2,0
+19,Male,United Kingdom,No,No,No,NA,25-Jun,No,Yes,4,0
+28,male,United Kingdom,Yes,No,No,NA,05-Jan,Yes,Yes,3,0
+20,Male,India,No,No,Yes,Sometimes,26-100,No,Yes,2,0
+35,Male,United Kingdom,Yes,No,No,Sometimes,05-Jan,No,Yes,1,0
+39,male,United States,No,No,Yes,Rarely,100-500,Yes,Yes,4,0
+32,Male,United Kingdom,No,No,No,Rarely,500-1000,No,Yes,1,0
+27,Male,Sweden,No,No,No,NA,25-Jun,No,Yes,0,0
+25,Male,United States,No,Yes,Yes,Often,25-Jun,Yes,Yes,4,0
+42,male,United States,No,Yes,Yes,Sometimes,25-Jun,Yes,Yes,1,0
+34,male,United States,No,Yes,Yes,Often,100-500,No,Yes,4,0
+26,female,United States,No,No,Yes,Sometimes,26-100,Yes,Yes,0,0
+34,Male,United Kingdom,No,No,No,Never,500-1000,No,Yes,2,0
+34,M,United States,No,No,No,Sometimes,100-500,No,Yes,1,0
+39,M,United States,No,Yes,Yes,Sometimes,25-Jun,Yes,Yes,4,0
+44,F,United States,No,No,No,NA,100-500,No,Yes,1,0
+33,female,United States,Yes,No,No,Never,05-Jan,Yes,Yes,3,0
+38,Female,United States,No,Yes,No,Sometimes,26-100,Yes,Yes,1,0
+23,Male,Israel,No,No,No,NA,100-500,No,Yes,2,0
+26,F,United States,No,No,No,NA,25-Jun,No,Yes,2,0
+30,Male,United States,No,Yes,Yes,Sometimes,26-100,Yes,Yes,1,0
+25,Male,United States,No,No,No,Rarely,26-100,Yes,Yes,1,0
+19,M,Canada,No,No,No,Never,26-100,Yes,Yes,0,0
+32,Male,United Kingdom,No,No,No,NA,25-Jun,No,Yes,0,0
+37,Male,United States,No,Yes,No,Sometimes,26-100,Yes,Yes,0,0
+42,M,United States,No,Yes,Yes,Sometimes,25-Jun,Yes,Yes,0,0
+19,Male,United States,No,No,No,Sometimes,05-Jan,No,Yes,1,0
+26,Male,United States,No,Yes,No,NA,25-Jun,No,Yes,2,0
+31,Male,United States,No,Yes,Yes,Rarely,25-Jun,No,Yes,3,0
+31,Female,United States,No,Yes,Yes,Often,26-100,No,Yes,1,0
+35,Male,Canada,No,Yes,No,Sometimes,25-Jun,Yes,Yes,1,0
+26,male,Australia,No,Yes,Yes,Sometimes,26-100,Yes,Yes,3,0
+34,Female,United States,No,No,No,Sometimes,05-Jan,No,Yes,2,0
+35,Male,United States,No,No,No,NA,25-Jun,Yes,Yes,0,0
+28,female,United States,No,Yes,Yes,Sometimes,26-100,Yes,Yes,1,0
+40,M,United States,No,Yes,Yes,Sometimes,More than 1000,Yes,Yes,4,0
+26,Male,United States,No,No,Yes,Sometimes,25-Jun,No,Yes,3,0
+26,Female,Canada,No,Yes,Yes,Sometimes,100-500,No,Yes,2,0
+33,Malr,Italy,No,Yes,Yes,Sometimes,25-Jun,No,Yes,1,0
+28,Male,Brazil,No,Yes,No,Sometimes,100-500,No,Yes,0,0
+26,female,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,3,0
+35,Male,Switzerland,No,Yes,Yes,Often,More than 1000,No,Yes,1,0
+36,Male,United States,No,No,No,Never,05-Jan,Yes,Yes,0,0
+27,Male,United States,No,No,No,Never,25-Jun,No,Yes,1,0
+33,male,United States,Yes,No,No,Never,25-Jun,Yes,Yes,2,0
+31,Male ,Canada,No,Yes,Yes,Often,More than 1000,No,Yes,1,0
+28,Female,United States,No,No,Yes,Rarely,25-Jun,No,Yes,4,0
+27,Male,United States,No,No,Yes,Sometimes,100-500,No,Yes,1,0
+44,M,United States,Yes,No,No,Never,05-Jan,Yes,Yes,1,0
+25,Male,United States,No,No,Yes,Often,25-Jun,Yes,Yes,0,0
+24,male,Germany,No,Yes,Yes,Sometimes,25-Jun,No,Yes,1,0
+34,M,United States,No,No,No,Never,25-Jun,Yes,Yes,1,0
+34,Male,Greece,No,No,No,NA,26-100,Yes,Yes,1,0
+39,Female,United States,No,No,Yes,Sometimes,25-Jun,Yes,Yes,0,0
+43,Male,United States,No,No,No,Sometimes,More than 1000,Yes,Yes,2,0
+31,m,United States,No,No,Yes,Sometimes,100-500,No,Yes,2,0
+43,Male,United States,Yes,Yes,Yes,Sometimes,05-Jan,Yes,Yes,1,0
+37,female,United States,No,Yes,Yes,Sometimes,26-100,Yes,Yes,3,0
+32,male,Netherlands,Yes,No,Yes,Sometimes,05-Jan,No,Yes,2,0
+25,Male,United States,No,Yes,Yes,Often,05-Jan,No,Yes,3,0
+29,Male,Netherlands,No,Yes,Yes,Often,05-Jan,No,Yes,3,0
+37,male,Germany,No,No,No,NA,25-Jun,No,Yes,3,0
+41,male,Germany,No,No,Yes,Sometimes,More than 1000,No,Yes,2,0
+28,Female,United States,No,Yes,Yes,Sometimes,100-500,No,Yes,3,0
+11,male,United States,Yes,No,No,Never,05-Jan,Yes,Yes,3,0
+32,Male,United States,No,Yes,Yes,Often,100-500,No,Yes,3,0
+24,Male,United States,No,Yes,Yes,Rarely,25-Jun,Yes,Yes,2,0
+40,male,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,2,0
+43,Male,United States,No,No,No,Never,500-1000,No,Yes,1,0
+29,Male,United States,No,No,No,NA,25-Jun,Yes,Yes,3,0
+26,Male,United States,No,Yes,No,Sometimes,100-500,No,Yes,0,0
+33,Female,Canada,Yes,Yes,Yes,Often,05-Jan,Yes,Yes,3,0
+35,Female,United States,No,Yes,No,Sometimes,25-Jun,Yes,Yes,1,0
+45,M,United States,No,No,No,Never,25-Jun,Yes,Yes,2,0
+25,Male,United States,No,No,Yes,Rarely,25-Jun,Yes,Yes,1,0
+50,male,France,Yes,No,Yes,Sometimes,26-100,Yes,Yes,1,0
+26,male,Australia,No,Yes,Yes,Rarely,26-100,No,Yes,2,0
+33,female,United States,No,No,Yes,Often,More than 1000,No,Yes,3,0
+30,Male,India,No,No,No,Often,25-Jun,No,Yes,0,0
+29,M,France,No,No,Yes,Often,25-Jun,No,Yes,2,0
+37,male,Germany,No,No,No,NA,25-Jun,Yes,Yes,0,0
+25,Male,United States,No,Yes,Yes,Sometimes,05-Jan,Yes,Yes,1,0
+24,Male,Canada,No,No,No,Sometimes,26-100,No,Yes,3,0
+40,Male,United Kingdom,No,No,Yes,Never,100-500,No,Yes,0,0
+46,Male,United States,No,Yes,Yes,Sometimes,25-Jun,No,Yes,2,0
+34,Male,United States,No,No,No,Never,05-Jan,Yes,Yes,3,0
+33,Female,United Kingdom,No,No,Yes,Never,100-500,No,Yes,0,0
+35,Male,United States,No,No,No,NA,25-Jun,No,Yes,2,0
+26,Male,Germany,Yes,Yes,Yes,Often,05-Jan,No,Yes,1,0
+20,female,United States,No,No,Yes,Sometimes,26-100,Yes,Yes,0,0
+37,Male,Netherlands,No,Yes,No,Sometimes,25-Jun,No,Yes,3,0
+32,male,United Kingdom,No,No,No,NA,26-100,No,Yes,0,0
+36,F,United States,No,Yes,Yes,Rarely,More than 1000,Yes,Yes,3,0
+27,M,New Zealand,No,No,No,Rarely,26-100,No,Yes,3,0
+27,M,New Zealand,No,No,No,Rarely,26-100,No,Yes,3,0
+25,Male,United Kingdom,No,Yes,Yes,Sometimes,26-100,Yes,Yes,3,0
+41,M,United Kingdom,No,Yes,No,NA,25-Jun,No,Yes,0,0
+23,Male,Germany,No,Yes,Yes,Sometimes,25-Jun,No,Yes,0,0
+26,Male,Moldova,No,No,Yes,Often,26-100,No,Yes,3,0
+29,Male,Sweden,No,No,No,Rarely,More than 1000,No,Yes,0,0
+26,F,United States,No,Yes,No,Sometimes,26-100,Yes,Yes,0,0
+38,Male,United Kingdom,No,Yes,Yes,Sometimes,05-Jan,No,Yes,1,0
+32,male,United States,No,No,No,Rarely,25-Jun,No,Yes,1,0
+26,Male,United Kingdom,No,No,No,Never,25-Jun,No,Yes,1,0
+38,Male,Canada,No,Yes,Yes,Rarely,100-500,No,Yes,1,0
+32,male,Canada,Yes,No,No,Never,25-Jun,Yes,Yes,2,0
+37,Male,Netherlands,Yes,No,No,Never,05-Jan,Yes,Yes,2,0
+31,male,United Kingdom,No,Yes,Yes,Never,25-Jun,No,Yes,0,0
+30,m,United States,No,Yes,Yes,Rarely,25-Jun,No,Yes,1,0
+51,M,Singapore,No,No,No,Never,More than 1000,Yes,Yes,1,0
+29,M,United States,No,No,Yes,Sometimes,26-100,No,Yes,3,0
+31,Male,United Kingdom,No,No,No,Never,100-500,No,Yes,4,0
+31,Male,India,No,No,No,NA,26-100,No,Yes,2,0
+26,Male,United States,No,Yes,Yes,Sometimes,25-Jun,Yes,Yes,0,0
+32,Male,United States,No,Yes,No,Sometimes,More than 1000,No,Yes,3,0
+34,male,Poland,No,No,No,Never,More than 1000,Yes,Yes,0,0
+26,Male,Colombia,No,No,No,Often,25-Jun,No,Yes,2,0
+32,Female,United States,No,No,Yes,Sometimes,More than 1000,No,Yes,2,0
+29,Male,United States,No,No,No,NA,More than 1000,No,Yes,1,0
+23,Male,United Kingdom,No,No,Yes,Sometimes,05-Jan,No,Yes,1,0
+38,male,United States,No,Yes,No,NA,25-Jun,No,Yes,1,0
+26,Female,United States,No,Yes,Yes,Rarely,100-500,No,Yes,1,0
+29,Male,United States,No,No,No,Never,26-100,No,Yes,1,0
+40,m,China,Yes,No,No,Sometimes,05-Jan,Yes,Yes,1,0
+25,female,Bulgaria,No,No,Yes,Sometimes,26-100,Yes,Yes,0,0
+32,Woman,United States,No,No,Yes,Sometimes,26-100,No,Yes,3,0
+35,female,United States,No,Yes,Yes,Sometimes,05-Jan,Yes,Yes,2,0
+28,F,United States,No,No,Yes,Often,25-Jun,No,Yes,2,0
+56,female,United States,Yes,No,No,Rarely,05-Jan,Yes,Yes,0,0
+38,Male,United States,No,Yes,Yes,Sometimes,26-100,Yes,Yes,1,0
+31,Female,Belgium,No,No,No,NA,26-100,No,Yes,1,0
+40,Male,United States,No,Yes,Yes,Sometimes,25-Jun,No,Yes,4,0
+44,M,United States,No,Yes,Yes,Sometimes,100-500,No,Yes,4,0
+34,Male,Canada,No,Yes,No,Sometimes,More than 1000,No,Yes,4,0
+37,Male,United Kingdom,No,No,No,Never,26-100,Yes,Yes,1,0
+38,male,Italy,No,No,No,Never,26-100,No,Yes,2,0
+27,male,Germany,No,No,No,NA,26-100,No,Yes,1,0
+35,Female,Ireland,No,No,No,Rarely,05-Jan,No,Yes,0,0
+34,male,Ireland,No,No,Yes,Often,25-Jun,No,Yes,2,0
+32,Male,United States,No,No,Yes,Often,26-100,Yes,Yes,2,0
+25,male,Ireland,No,No,No,NA,100-500,No,Yes,1,0
+28,Male,Australia,No,No,Yes,Often,100-500,Yes,Yes,2,0
+28,Female,United States,No,No,Yes,Rarely,25-Jun,No,Yes,3,0
+31,Male,Brazil,Yes,No,Yes,NA,05-Jan,No,Yes,2,0
+24,Male,United Kingdom,No,No,No,NA,100-500,No,Yes,1,0
+34,Male,Ireland,No,Yes,Yes,Never,05-Jan,Yes,Yes,1,0
+32,male,Ireland,No,No,Yes,Sometimes,25-Jun,No,Yes,1,0
+23,Male,United States,No,No,Yes,Sometimes,05-Jan,No,Yes,2,0
+33,Male,Czech Republic,No,Yes,No,Often,100-500,No,Yes,2,0
+29,male,Singapore,No,Yes,Yes,Sometimes,26-100,No,Yes,0,0
+24,male,Ireland,No,Yes,No,NA,05-Jan,No,Yes,0,0
+45,male,Ireland,No,No,No,Never,More than 1000,Yes,Yes,1,0
+31,Male,Philippines,No,No,No,Sometimes,More than 1000,No,Yes,2,0
+33,Male,United States,No,No,Yes,Often,26-100,Yes,Yes,3,0
+28,male,Netherlands,No,No,No,NA,25-Jun,No,Yes,0,0
+42,male,Ireland,No,No,No,Never,26-100,No,Yes,3,0
+28,male,Netherlands,No,No,No,NA,25-Jun,No,Yes,0,0
+46,Male,United States,No,Yes,Yes,Often,26-100,No,Yes,0,0
+46,male,United States,No,Yes,Yes,Sometimes,100-500,Yes,Yes,1,0
+41,female,Netherlands,Yes,No,Yes,Rarely,05-Jan,Yes,Yes,4,0
+23,Male ,United Kingdom,No,No,No,Never,26-100,No,Yes,1,0
+24,male,Ireland,No,Yes,Yes,Sometimes,More than 1000,No,Yes,4,0
+23,female,Ireland,No,No,Yes,Rarely,26-100,No,Yes,2,0
+32,Female,Ireland,No,Yes,No,Never,More than 1000,No,Yes,4,0
+25,Male,United States,No,Yes,Yes,Sometimes,26-100,No,Yes,2,0
+39,Male,Greece,No,No,No,NA,25-Jun,Yes,Yes,2,0
+24,Cis Man,United Kingdom,Yes,No,Yes,Sometimes,25-Jun,Yes,Yes,0,0
+23,Male,United Kingdom,No,No,Yes,Rarely,25-Jun,No,Yes,2,0
+23,Male,Canada,No,No,Yes,Often,26-100,No,Yes,3,0
+60,Male,United States,No,No,Yes,Often,More than 1000,Yes,Yes,1,0
+28,male,Ireland,No,No,No,Sometimes,26-100,No,Yes,3,0
+30,male,Netherlands,No,No,No,Sometimes,500-1000,No,Yes,1,0
+31,male,Germany,No,Yes,Yes,Sometimes,100-500,No,Yes,1,0
+31,Male,Poland,Yes,No,Yes,Often,25-Jun,Yes,Yes,0,0
+28,Male,Ireland,No,No,Yes,Rarely,26-100,No,Yes,0,0
+43,f,United States,No,Yes,Yes,Rarely,More than 1000,Yes,Yes,4,0
+32,Male,United States,No,No,No,Never,100-500,No,Yes,2,0
+36,male,Finland,No,No,Yes,Often,25-Jun,No,Yes,1,0
+41,Female,United States,No,Yes,Yes,Sometimes,26-100,No,Yes,2,0
+26,male,United Kingdom,No,No,Yes,NA,26-100,No,Yes,0,0
+34,male,United States,No,Yes,Yes,Sometimes,More than 1000,No,Yes,4,0
+46,f,United States,No,No,No,NA,100-500,Yes,Yes,2,0
+44,M,United States,NA,,,,,,,,
+42,female,United States,NA,,,,,,,,
+41,Male,United States,No,,,,,,,,
+35,male,United States,No,,,,,,,,
+26,Male,United States,No,,,,,,,,
+44,Male,United States,No,,,,,,,,
+31,Female,United States,No,,,,,,,,
+30,male,Canada,No,,,,,,,,
+26,female,Canada,No,,,,,,,,
+21,Male,United Kingdom,Yes,,,,,,,,
+27,Male,Canada,No,,,,,,,,
+27,Male,Canada,No,,,,,,,,
+39,M,United Kingdom,No,,,,,,,,
+37,Male,United Kingdom,Yes,,,,,,,,
+35,M,United States,No,,,,,,,,
+-29,Male,United States,No,,,,,,,,
+37,Male,United States,No,,,,,,,,
+23,Male,United States,No,,,,,,,,
+37,Male,United Kingdom,No,,,,,,,,
+25,Male,United States,No,,,,,,,,
+26,male,United States,No,,,,,,,,
+36,Male,United Kingdom,No,,,,,,,,
+34,Female,Canada,No,,,,,,,,
+28,Male,United Kingdom,No,,,,,,,,
+26,f,India,Yes,,,,,,,,
+34,female,United States,No,,,,,,,,
+37,Male,United Kingdom,No,,,,,,,,
+32,f,United States,No,,,,,,,,
+29,F,United States,No,,,,,,,,
+38,Male,United Kingdom,No,,,,,,,,
+37,F,United States,No,,,,,,,,
+28,Female,Canada,No,,,,,,,,
+21,Male,United States,No,,,,,,,,
+29,Male,United Kingdom,No,,,,,,,,
+29,f,United States,No,,,,,,,,
+23,Male,United States,No,,,,,,,,
+27,Male,United Kingdom,No,,,,,,,,
+23,female,United States,No,,,,,,,,
+34,male,United States,No,,,,,,,,
+28,male,United States,No,,,,,,,,
+25,Male,Canada,No,,,,,,,,
+28,female,United States,No,,,,,,,,
+25,Male,Canada,No,,,,,,,,
+30,male,United States,No,,,,,,,,
+29,M,United States,No,,,,,,,,
+25,Male,United States,No,,,,,,,,
+33,male,Germany,Yes,,,,,,,,
+31,Male,United States,No,,,,,,,,
+29,m,Romania,No,,,,,,,,
+35,Male,United States,No,,,,,,,,
+23,Male,United States,No,,,,,,,,
+29,Male,Belgium,No,,,,,,,,
+31,Male,United States,No,,,,,,,,
+26,male,United States,Yes,,,,,,,,
+32,Male,United States,No,,,,,,,,
+21,Male,United Kingdom,No,,,,,,,,
+34,woman,United States,No,,,,,,,,
+40,female,United States,No,,,,,,,,
+24,female,United States,No,,,,,,,,
+29,Male,United States,No,,,,,,,,
+31,Female,United States,No,,,,,,,,
+28,Female,United States,No,,,,,,,,
+21,M,United States,No,,,,,,,,
+26,Female,United States,No,,,,,,,,
+23,Male,United States,No,,,,,,,,
+37,Male,Canada,No,,,,,,,,
+18,male,Finland,No,,,,,,,,
+23,Male,United States,No,,,,,,,,
+43,male,Germany,No,,,,,,,,
+33,Male,Italy,No,,,,,,,,
+30,M,United States,No,,,,,,,,
+36,m,United States,No,,,,,,,,
+54,Male,United Kingdom,No,,,,,,,,
+25,Male,Germany,No,,,,,,,,
+42,male,United States,No,,,,,,,,
+38,Female,United States,No,,,,,,,,
+23,F,United States,No,,,,,,,,
+35,Male,United States,No,,,,,,,,
+26,F,United States,No,,,,,,,,
+25,Woman,United States,No,,,,,,,,
+32,Female,Canada,No,,,,,,,,
+65,Male,United States,Yes,,,,,,,,
+34,Male,United States,No,,,,,,,,
+29,Male,Canada,No,,,,,,,,
+40,Female,United States,No,,,,,,,,
+33,Male,United States,No,,,,,,,,
+30,cis-female/femme,United States,Yes,,,,,,,,
+24,male,United States,No,,,,,,,,
+42,Male,United States,Yes,,,,,,,,
+37,Male,United States,No,,,,,,,,
+35,Male,United States,No,,,,,,,,
+37,Guy (-ish) ^_^,Canada,No,,,,,,,,
+35,m,Germany,No,,,,,,,,
+29,Female,Australia,No,,,,,,,,
+31,female,Belgium,No,,,,,,,,
+26,F,Australia,No,,,,,,,,
+39,M,United States,No,,,,,,,,
+34,Female,Australia,No,,,,,,,,
+32,M,United States,No,,,,,,,,
+30,Male,Italy,No,,,,,,,,
+28,Male,United States,No,,,,,,,,
+38,Male,United States,No,,,,,,,,
+19,Trans woman,United States,No,,,,,,,,
+29,female,Canada,No,,,,,,,,
+32,Male,United Kingdom,No,,,,,,,,
+39,F,United States,No,,,,,,,,
+30,M,United States,No,,,,,,,,
+23,Male,United States,No,,,,,,,,
+43,M,United States,No,,,,,,,,
+-1726,male,United Kingdom,No,,,,,,,,
+30,male,Canada,No,,,,,,,,
+33,Male,United States,No,,,,,,,,
+29,Male,United States,No,,,,,,,,
+31,Male,United States,No,,,,,,,,
+33,Male,United Kingdom,Yes,,,,,,,,
+43,male,United States,No,,,,,,,,
+36,Male,United States,No,,,,,,,,
+29,Female,United States,No,,,,,,,,
+38,f,United States,No,,,,,,,,
+21,Male,United States,No,,,,,,,,
+37,Female,United States,No,,,,,,,,
+39,male,United Kingdom,No,,,,,,,,
+32,Male,United Kingdom,No,,,,,,,,
+28,Male,United Kingdom,No,,,,,,,,
+39,Male,Canada,No,,,,,,,,
+32,Neuter,United Kingdom,No,,,,,,,,
+25,Male,United States,No,,,,,,,,
+37,Male,Netherlands,No,,,,,,,,
+35,Female,United States,No,,,,,,,,
+29,Male,United States,No,,,,,,,,
+40,female,United States,No,,,,,,,,
+35,Male,United States,No,,,,,,,,
+40,Female,United States,No,,,,,,,,
+35,Male,United States,No,,,,,,,,
+29,Male,United States,No,,,,,,,,
+44,Male,United Kingdom,No,,,,,,,,
+43,m,United Kingdom,No,,,,,,,,
+43,male,United States,No,,,,,,,,
+33,male,United States,No,,,,,,,,
+21,Male,United Kingdom,No,,,,,,,,
+32,male,United Kingdom,No,,,,,,,,
+32,male,United Kingdom,No,,,,,,,,
+23,M,United States,No,,,,,,,,
+46,Male,United States,No,,,,,,,,
+41,male,United Kingdom,No,,,,,,,,
+37,Male,United States,No,,,,,,,,
+29,M,United States,No,,,,,,,,
+23,Female,United Kingdom,No,,,,,,,,
+41,M,United States,No,,,,,,,,
+38,m,United Kingdom,No,,,,,,,,
+42,male,United States,Yes,,,,,,,,
+51,m,United States,No,,,,,,,,
+25,Male,United States,No,,,,,,,,
+35,Male,United States,No,,,,,,,,
+28,Male,United States,No,,,,,,,,
+42,male,New Zealand,No,,,,,,,,
+43,M,United States,No,,,,,,,,
+35,Female,United States,No,,,,,,,,
+38,Male,United Kingdom,Yes,,,,,,,,
+45,Male,United States,No,,,,,,,,
+24,Male,United Kingdom,No,,,,,,,,
+30,male,United States,No,,,,,,,,
+35,male,Germany,Yes,,,,,,,,
+55,male,United Kingdom,No,,,,,,,,
+45,Male,United Kingdom,No,,,,,,,,
+27,Male,France,No,,,,,,,,
+34,female,United Kingdom,No,,,,,,,,
+31,Female,United States,No,,,,,,,,
+38,m,United States,No,,,,,,,,
+40,male,United States,No,,,,,,,,
+24,Female,United States,No,,,,,,,,
+46,Female (trans),United States,No,,,,,,,,
+30,Female,United States,No,,,,,,,,
+34,Male,United States,No,,,,,,,,
+40,Male,United States,No,,,,,,,,
+36,M,United States,No,,,,,,,,
+44,m,United States,No,,,,,,,,
+29,f,United Kingdom,No,,,,,,,,
+41,Male,United States,Yes,,,,,,,,
+23,Female,United States,No,,,,,,,,
+42,M,United States,No,,,,,,,,
+29,Female,United States,No,,,,,,,,
+25,Male,South Africa,No,,,,,,,,
+26,Male,United States,No,,,,,,,,
+48,Male,United States,No,,,,,,,,
+25,Male,United States,No,,,,,,,,
+30,Female,United States,No,,,,,,,,
+34,female,Canada,No,,,,,,,,
+32,male,United Kingdom,No,,,,,,,,
+38,male,United States,No,,,,,,,,
+43,male,United States,No,,,,,,,,
+36,male,United States,Yes,,,,,,,,
+29,Male,United States,No,,,,,,,,
+40,m,United States,No,,,,,,,,
+38,Male,United States,No,,,,,,,,
+44,Male,United Kingdom,No,,,,,,,,
+45,female,United States,No,,,,,,,,
+28,male,United States,No,,,,,,,,
+42,F,United States,No,,,,,,,,
+27,Male,United Kingdom,No,,,,,,,,
+21,Male,United Kingdom,No,,,,,,,,
+28,male,Belgium,No,,,,,,,,
+27,female,United Kingdom,No,,,,,,,,
+23,Male,Israel,No,,,,,,,,
+39,M,United Kingdom,No,,,,,,,,
+35,M,United States,No,,,,,,,,
+34,Female,United Kingdom,No,,,,,,,,
+39,Male,United States,No,,,,,,,,
+46,Female,United States,No,,,,,,,,
+29,Male,United States,No,,,,,,,,
+30,Male,United States,No,,,,,,,,
+20,Male,Georgia,No,,,,,,,,
+38,male,United States,No,,,,,,,,
+72,Female,United States,No,,,,,,,,
+27,femail,United States,No,,,,,,,,
+34,female,Ireland,No,,,,,,,,
+34,Male,United Kingdom,No,,,,,,,,
+34,Female,United Kingdom,No,,,,,,,,
+27,Male,United Kingdom,No,,,,,,,,
+39,Male,Netherlands,No,,,,,,,,
+25,Male,United Kingdom,No,,,,,,,,
+24,"ostensibly male, unsure what that really means",United Kingdom,No,,,,,,,,
+28,Male,United States,No,,,,,,,,
+32,female,United Kingdom,No,,,,,,,,
+22,Male,Australia,No,,,,,,,,
+36,Male,South Africa,No,,,,,,,,
+36,Male,United States,No,,,,,,,,
+25,Male,United States,No,,,,,,,,

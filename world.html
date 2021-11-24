@@ -4,7 +4,7 @@
   <head>
     <title>Ben Miller - SENG480D</title>
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-
+    <script src="https://d3js.org/d3.v7.min.js"></script>
     <link href="jqvmap.css" media="screen" rel="stylesheet" type="text/css"/>
     <link rel="icon" href="https://thumbs.dreamstime.com/b/data-visualization-linear-icon-modern-outline-visualizatio-logo-concept-white-background-technology-collection-suitable-133525522.jpg"/>
 
@@ -28,17 +28,39 @@
           normalizeFunction: 'polynomial'
         });
       });
+
+        function logData(data) {
+                    for (let i = 0; i < data.length; i++) {
+                                console.log(data[i].Gender);
+                    }
+        }
+                                
+
+      d3.csv("http://hactuallybenji.com/survey.csv").then(logData);
+
     </script>
   </head>
   <body>
       <div id="header" style="width: 100%; height: 100px; font-size: 30px; display: flex; align-items: center; justify-content: center;">SENG480D - Ben Miller (Title)</div>
       <div id="map_filter_container" style="display: flex; justify-content: center; align-items: center;">
-        <div id="vmap" style="width: 70%; height: 600px; padding-bottom: 20px; border-top: 1px solid grey"></div>
-        <div id="filter_options" style="width: 20%; height: 600px; padding: 10px; border-top: 1px solid grey; display: inline-block;">
-            <input type="checkbox" id="remote" name="remote" value="Remote" style="margin-top: 5px">
+        <div id="vmap" style="width: 65%; height: 450px; padding-bottom: 20px; border-top: 1px solid grey"></div>
+        <div id="filter_options" style="width: 20%; height: 450px; padding: 10px; border-top: 1px solid grey; display: inline-block;">
+            <input type="checkbox" checked="true" id="remote" name="remote" value="Remote" style="margin-top: 5px">
             <label for="remote">Remote Work</label><br>
-            <input type="checkbox" id="self_employed" name="self_employed" value="Self_Employed">
+            <input type="checkbox" checked="true" id="self_employed" name="self_employed" value="Self_Employed">
             <label for="self_employed">Self-Employed</label><br>
+            <input type="checkbox" checked="true" id="family_history" name="family_history" value="Family_History">
+            <label for="family_history">Family History of Mental Health Disorders</label><br>
+            <input type="checkbox" checked="true" id="4" name="4" value="4">
+            <label for="4">Dimension 5</label><br>
+            <input type="checkbox" checked="true" id="5" name="5" value="5">
+            <label for="5">Dimension 6</label><br>
+            <input type="checkbox" checked="true" id="6" name="6" value="6">
+            <label for="6">Dimension 7</label><br>
+            <input type="range" min="18" max="72" value="18" id="age" style="height: 25px">
+            <label for="age">Min Age</label><br>
+            <input type="range" min="18" max="72" value="72" id="max_age" style="height: 25px">
+            <label for="max_age">Max Age</label><br>
         </div>
       </div>
     <div id="scale" style="width: 100%; height: 100px; margin-left: auto; margin-right: auto;">
@@ -60,7 +82,7 @@
       </table>
     </div>
     <div id="data" style="width: 100%; height: 400px; text-align: center;">
-
+        HELLO
     </div>
   </body>
 </html>
