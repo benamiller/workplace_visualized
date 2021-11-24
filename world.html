@@ -30,13 +30,14 @@
       });
 
         function logData(data) {
-                    for (let i = 0; i < data.length; i++) {
-                                console.log(data[i].Gender);
-                    }
+                let newData = data.filter(item => item.Gender == "Male");
+                for (let i = 0; i < newData.length; i++) {
+                            console.log(newData[i].Gender);
+                }
         }
                                 
 
-      d3.csv("http://hactuallybenji.com/survey.csv").then(logData);
+      d3.csv("https://raw.githubusercontent.com/HactuallyBenji/workplace_visualized/main/survey.csv").then(logData);
 
     </script>
   </head>
