@@ -12,6 +12,7 @@
     <script type="text/javascript" src="jquery.vmap.js"></script>
     <script type="text/javascript" src="maps/jquery.vmap.world.js" charset="utf-8"></script>
     <script type="text/javascript" src="js/jquery.vmap.sampledata.js"></script>
+    <script src="../../../../../../node_modules/chart.js/dist/chart.js"></script>
 
     <script>
       jQuery(document).ready(function () {
@@ -64,26 +65,75 @@
             <label for="max_age">Max Age</label><br>
         </div>
       </div>
-    <div id="scale" style="width: 100%; height: 100px; margin-left: auto; margin-right: auto;">
-      <table style="margin-right: auto; margin-left: 5%; border-spacing: 0">
+    <div id="scale" style="width: 100%; height: 80px; margin-left: auto; margin-right: auto;">
+      <table style="margin-right: auto; margin-left: 5%; border-spacing: 0; text-align:end">
         <tr>
           <td style="width: 210px; height: 20px; background-color: #FFFFFF; margin: 0;"></td>
           <td style="width: 140px; background-color: #d6b3ff; margin: 0;"></td>
-          <td style="width: 140px; background-color: #c38fff; margin: 0;"></td>
+          <td style="width: 140px; background-color: #d56fff; margin: 0;"></td>
           <td style="width: 140px; background-color: #c08aff; margin: 0;"></td>
           <td style="width: 140px; background-color: #9b45ff; margin: 0;"></td>
           <td style="width: 140px; background-color: #8b26ff; margin: 0;"></td>
-          <td style="width: 99px; background-color: #7600ff; margin: 0; padding: 0;"></td>
+          <td style="width: 200px; background-color: #7600ff; margin: 0; padding: 0;"></td>
         </tr>
         <tr>
-          <td style="width: 210px;">First colour</td>
-          <td style="width: 140px;">Second colour</td>
-          <td style="width: 99px">Third colour</td>
+          <td style="width: 210px;"><$10,000</td>
+          <td style="width: 99px">$10,000</td>
+          <td style="width: 99px">$20,000</td>
+          <td style="width: 99px">$30,000</td>
+          <td style="width: 99px">$40,000</td>
+          <td style="width: 99px">$50,000</td>
+          <td style="width: 99px">>$70,000</td>
         </tr>
       </table>
     </div>
-    <div id="data" style="width: 100%; height: 400px; text-align: center;">
+    <div id="data" style="width: 100%; text-align: center;">
         HELLO
     </div>
+    <div class="chartContainer" style="position: relative; height: 400px; width: 400px">
+      <canvas id="myChart" width="100px" height="100px"></canvas>
+    </div>
+    <script>
+      const ctx = document.getElementById('myChart').getContext('2d');
+      const myChart = new Chart(ctx, {
+          type: 'bar',
+          data: {
+              labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
+              datasets: [{
+                  label: '# of Votes',
+                  data: [12, -10, 3, 5, 2, 3],
+                  backgroundColor: [
+                      'rgba(255, 99, 132, 0.2)',
+                      'rgba(54, 162, 235, 0.2)',
+                      'rgba(255, 206, 86, 0.2)',
+                      'rgba(75, 192, 192, 0.2)',
+                      'rgba(153, 102, 255, 0.2)',
+                      'rgba(255, 159, 64, 0.2)'
+                  ],
+                  borderColor: [
+                      'rgba(255, 99, 132, 1)',
+                      'rgba(54, 162, 235, 1)',
+                      'rgba(255, 206, 86, 1)',
+                      'rgba(75, 192, 192, 1)',
+                      'rgba(153, 102, 255, 1)',
+                      'rgba(255, 159, 64, 1)'
+                  ],
+                  borderWidth: 1
+              }]
+          },
+          options: {
+              responsive: true,
+              plugins: {
+                legend: {
+                  position: 'top',
+                },
+                title: {
+                  display: true,
+                  text: 'Chart.js Bar Chart Sample'
+                }
+              }
+          }
+      });
+      </script>
   </body>
 </html>
