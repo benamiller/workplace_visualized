@@ -6,6 +6,7 @@
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <link href="jqvmap.css" media="screen" rel="stylesheet" type="text/css"/>
+    <link rel="stylesheet" type="text/css" href="world.css"/>
     <link rel="icon" href="https://thumbs.dreamstime.com/b/data-visualization-linear-icon-modern-outline-visualizatio-logo-concept-white-background-technology-collection-suitable-133525522.jpg"/>
 
     <script type="text/javascript" src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
@@ -90,7 +91,7 @@
       </table>
     </div>
     <div class="buttonContainer" style="display: flex; justify-content: center;">
-      <button type="button" onClick="update()">Update</button>
+      <button type="button" id="updateButton" onClick="update()">Update</button>
     </div>
     <br>
     <div class="chartContainer" style="display: flex; justify-content: space-around; width: 100%; height: 800px">
@@ -179,10 +180,10 @@
           let c2ComfortNo = 0; 
 
           for (let i = 0; i < newData1.length; i++) {
-            if (newData1[i].benefits === "Yes" || newData[i].benefits === "Y") {
+            if (newData1[i].benefits === "Yes" || newData1[i].benefits === "Y") {
               c1BenefitsYes += 1;
             }
-            if (newData1[i].leave === "Very easy" || newData[i].leave === "Somewhat easy") {
+            if (newData1[i].leave === "Very easy" || newData1[i].leave === "Somewhat easy") {
               c1LeaveYes += 1;
             }
             if (newData1[i].wellness_program === "Yes") {
@@ -191,17 +192,72 @@
             if (newData1[i].anonimity === "Yes") {
               c1AnonimityYes += 1;
             }
-            if (newData1[i]);
+            if (newData1[i].coworkers === "Yes" || newData1[i].coworkers === "Some of them") {
+              c1ComfortYes += 1;
+            };
+            if (newData1[i].benefits === "No" || newData1[i].benefits === "N") {
+              c1BenefitsNo += 1;
+            }
+            if (newData1[i].leave === "Very difficult" || newData1[i].leave === "Somewhat difficult") {
+              c1LeaveNo += 1;
+            }
+            if (newData1[i].wellness_program === "No") {
+              c1WellnessNo += 1;
+            }
+            if (newData1[i].anonimity === "No") {
+              c1AnonimityNo += 1;
+            }
+            if (newData1[i].coworkers === "No") {
+              c1ComfortNo += 1;
+            };
           }
+
+          let c1YesResults = [c1BenefitsYes, c1WellnessYes, c1LeaveYes, c1AnonimityYes, c1ComfortYes];
+          let c1NoResults = [c1BenefitsNo, c1WellnessNo, c1LeaveNo, c1AnonimityNo, c1ComfortNo];
 
           for (let i = 0; i < newData2.length; i++) {
-
+            if (newData2[i].benefits === "Yes" || newData2[i].benefits === "Y") {
+              c2BenefitsYes += 1;
+            }
+            if (newData2[i].leave === "Very easy" || newData2[i].leave === "Somewhat easy") {
+              c2LeaveYes += 1;
+            }
+            if (newData2[i].wellness_program === "Yes") {
+              c2WellnessYes += 1;
+            }
+            if (newData2[i].anonimity === "Yes") {
+              c2AnonimityYes += 1;
+            }
+            if (newData2[i].coworkers === "Yes" || newData2[i].coworkers === "Some of them") {
+              c2ComfortYes += 1;
+            };
+            if (newData2[i].benefits === "No" || newData2[i].benefits === "N") {
+              c2BenefitsNo += 1;
+            }
+            if (newData2[i].leave === "Very difficult" || newData2[i].leave === "Somewhat difficult") {
+              c2LeaveNo += 1;
+            }
+            if (newData2[i].wellness_program === "No") {
+              c2WellnessNo += 1;
+            }
+            if (newData1[i].anonimity === "No") {
+              c2AnonimityNo += 1;
+            }
+            if (newData1[i].coworkers === "No") {
+              c2ComfortNo += 1;
+            };
           }
 
-          console.log("NEW DATA 1");
-          console.log(newData1);
-          console.log("NEW DATA 2");
-          console.log(newData2);
+          let c2YesResults = [c2BenefitsYes, c2WellnessYes, c2LeaveYes, c2AnonimityYes, c2ComfortYes];
+          let c2NoResults = [c2BenefitsNo, c2WellnessNo, c2LeaveNo, c2AnonimityNo, c2ComfortNo];
+
+          console.log("C1");
+          console.log(c1YesResults);
+          console.log(c1NoResults);
+
+          console.log("C2");
+          console.log(c2YesResults);
+          console.log(c1NoResults);
 
           // filter out self_employed
           newData1.filter(item => item.self_employed === slfEmpld);
@@ -231,7 +287,7 @@
             myChart2.data.datasets[0].data = data;
             myChart2.data.datasets[1].data = data2;
             myChart2.update();
-            d3.csv("https://raw.githubusercontent.com/HactuallyBenji/workplace_visualized/main/survey.csv").then(getData);
+            d3.csv("https://raw.githubusercontent.com/HactuallyBenji/workplace_visualized/main/survey_results.csv").then(getData);
         }
 
       const ctx = document.getElementById('myChart').getContext('2d');
