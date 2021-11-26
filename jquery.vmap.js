@@ -200,17 +200,16 @@ var JQVMap = function (params) {
 
     if ( !params.multiSelectRegion && !mapClickEvent.isDefaultPrevented()) {
       for (var keyPath in mapData.paths) {
-        map.countries[keyPath].currentFillColor = map.countries[keyPath].getOriginalFill();
-        document.getElementById('data').innerHTML = mapData.paths[code].name;
-          if (toggle === 0) {
-            document.getElementById('chart1Title').innerHTML = mapData.paths[code].name;
-              console.log(toggle);
-            toggle = 1;
-          } else {
-              document.getElementById('chart2Title').innerHTML = mapData.paths[code].name;
-              toggle = 0;
-          }
+        map.countries[keyPath].currentFillColor = map.countries[keyPath].getOriginalFill();  
         map.countries[keyPath].setFill(map.countries[keyPath].getOriginalFill());
+      }
+      if (toggle === 0) {
+        document.getElementById('chart1Title').innerHTML = mapData.paths[code].name;
+          console.log(toggle);
+        toggle = 1;
+      } else {
+          document.getElementById('chart2Title').innerHTML = mapData.paths[code].name;
+          toggle = 0;
       }
     }
 
