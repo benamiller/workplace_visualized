@@ -38,6 +38,18 @@
                     sumAges += parseInt(newData[i].Age);
                 }
                 console.log(sumAges);
+                document.getElementById('all').checked = false;
+                
+        }
+
+        function hideFilters() {
+          let hide = document.getElementById('all').checked;
+          if (hide) {
+            document.getElementById('optionalFilters').style.display = "none";
+          } else {
+            document.getElementById('optionalFilters').style.display = "inline";
+          }
+          update();
         }
                                 
 
@@ -49,31 +61,25 @@
       <div id="header" style="width: 100%; height: 100px; font-size: 30px; display: flex; align-items: center; justify-content: center;">SENG480D - Ben Miller (Title)</div>
       <div id="map_filter_container" style="display: flex; justify-content: center; align-items: center;">
         <div id="vmap" style="width: 65%; height: 300px; padding-bottom: 20px; border-top: 1px solid grey"></div>
-        <div id="filter_options" style="width: 20%; height: 300px; padding: 10px; border-top: 1px solid grey; display: inline-block;">
-            <input type="checkbox" checked="true" id="remote" name="remote" value="Remote" style="margin-top: 5px" onchange="update()">
-            <label for="remote">Remote Work</label><br>
-            <input type="checkbox" checked="true" id="self_employed" name="self_employed" value="Self_Employed">
-            <label for="self_employed">Self-Employed</label><br>
-            <input type="checkbox" checked="true" id="family_history" name="family_history" value="Family_History">
-            <label for="family_history">Family History of Mental Health Disorders</label><br>
-            <input type="checkbox" checked="true" id="4" name="4" value="4">
-            <label for="4">Dimension 5</label><br>
-            <input type="checkbox" checked="true" id="5" name="5" value="5">
-            <label for="5">Dimension 6</label><br>
-            <input type="checkbox" checked="true" id="6" name="6" value="6">
-            <label for="6">Dimension 7</label><br>
-            <input type="range" min="18" max="72" value="18" id="age" style="height: 25px">
-            <label for="age">Min Age</label><br>
-            <input type="range" min="18" max="72" value="72" id="max_age" style="height: 25px">
-            <label for="max_age">Max Age</label><br>
+        <div id="filter_options" style="width: 24%; height: 300px; padding: 10px; border-top: 1px solid grey; display: inline-block;">
+            <input type="checkbox" checked="false" id="all" name="all" value="All" style="margin-top: 5px" onchange="hideFilters()">
+            <label for="all">All Data</label><br>
+            <div class="optionalFilters" id="optionalFilters">
+              <input type="checkbox" checked="true" id="remote" name="remote" value="Remote" style="margin-top: 5px" onchange="update()">
+              <label for="remote">Remote Work</label><br>
+              <input type="checkbox" checked="true" id="self_employed" name="self_employed" value="Self_Employed" onchange="update()">
+              <label for="self_employed">Self-Employed</label><br>
+              <input type="checkbox" checked="true" id="family_history" name="family_history" value="Family_History" onchange="update()">
+              <label for="family_history">Family History of Mental Health Disorders</label><br>
+            </div>
         </div>
       </div>
     <div id="scale" style="width: 100%; height: 80px; margin-left: auto; margin-right: auto;">
-      <table style="margin-right: auto; margin-left: 5%; border-spacing: 0; text-align:end">
-        <tr>
+      <table style="margin-right: auto; margin-left: 5%; border-spacing: 0; text-align:end; border-radius: 20px;">
+        <tr style="border-radius: 20px;">
           <td style="width: 210px; height: 20px; background-color: #FFFFFF; margin: 0;"></td>
           <td style="width: 140px; background-color: #d6b3ff; margin: 0;"></td>
-          <td style="width: 140px; background-color: #d56fff; margin: 0;"></td>
+          <td style="width: 140px; background-color: #cda1ff; margin: 0;"></td>
           <td style="width: 140px; background-color: #c08aff; margin: 0;"></td>
           <td style="width: 140px; background-color: #9b45ff; margin: 0;"></td>
           <td style="width: 140px; background-color: #8b26ff; margin: 0;"></td>
@@ -94,12 +100,12 @@
       <button type="button" id="updateButton" onClick="update()">Update</button>
     </div>
     <br>
-    <div class="chartContainer" style="display: flex; justify-content: space-around; width: 100%; height: 800px">
-        <div class="chart1Container" style="width: 600px; height: 800px; text-align: center">
+    <div class="chartContainer" style="display: flex; justify-content: space-around; width: 100%;">
+        <div class="chart1Container" style="width: 600px; text-align: center">
             <h1 id="chart1Title">First Country</h1>
             <canvas id="myChart"></canvas>
         </div>
-        <div class="chart2Container" style="width: 600px; height: 800px; text-align: center">
+        <div class="chart2Container" style="width: 600px; text-align: center">
             <h1 id="chart2Title">Second Country</h1>
             <canvas id="myChart2"></canvas>
         </div>
@@ -119,12 +125,6 @@
           const familyHistory = document.getElementById('family_history').checked;
           const fmlHstry = familyHistory ? "Yes" : "No";
           console.log(familyHistory);
-
-          const minAge = document.getElementById('age').value;
-          console.log(minAge);
-
-          const maxAge = document.getElementById('max_age').value;
-          console.log(maxAge);
 
           const country1 = document.getElementById('chart1Title').innerHTML;
           console.log(country1);
@@ -163,8 +163,8 @@
           let c1WellnessNo = 0;
           let c1LeaveYes = 0;
           let c1LeaveNo = 0;
-          let c1AnonimityYes = 0;
-          let c1AnonimityNo = 0;
+          let c1AnonymityYes = 0;
+          let c1AnonymityNo = 0;
           let c1ComfortYes = 0;
           let c1ComfortNo = 0;
 
@@ -174,10 +174,20 @@
           let c2WellnessNo = 0;
           let c2LeaveYes = 0;
           let c2LeaveNo = 0;
-          let c2AnonimityYes = 0;
-          let c2AnonimityNo = 0;
+          let c2AnonymityYes = 0;
+          let c2AnonymityNo = 0;
           let c2ComfortYes = 0; 
-          let c2ComfortNo = 0; 
+          let c2ComfortNo = 0;
+
+          if (document.getElementById('all').checked) {
+            newData1 = data.filter(item => {
+              return (item.Country.includes(country1) || country1.includes(item.Country));
+            });
+
+            newData2 = data.filter(item => {
+              return (item.Country.includes(country2) || country2.includes(item.Country));
+            })
+          }
 
           for (let i = 0; i < newData1.length; i++) {
             if (newData1[i].benefits === "Yes" || newData1[i].benefits === "Y") {
@@ -189,8 +199,8 @@
             if (newData1[i].wellness_program === "Yes") {
               c1WellnessYes += 1;
             }
-            if (newData1[i].anonimity === "Yes") {
-              c1AnonimityYes += 1;
+            if (newData1[i].anonymity === "Yes") {
+              c1AnonymityYes += 1;
             }
             if (newData1[i].coworkers === "Yes" || newData1[i].coworkers === "Some of them") {
               c1ComfortYes += 1;
@@ -204,16 +214,16 @@
             if (newData1[i].wellness_program === "No") {
               c1WellnessNo += 1;
             }
-            if (newData1[i].anonimity === "No") {
-              c1AnonimityNo += 1;
+            if (newData1[i].anonymity === "No") {
+              c1AnonymityNo += 1;
             }
             if (newData1[i].coworkers === "No") {
               c1ComfortNo += 1;
             };
           }
 
-          let c1YesResults = [c1BenefitsYes, c1WellnessYes, c1LeaveYes, c1AnonimityYes, c1ComfortYes];
-          let c1NoResults = [c1BenefitsNo, c1WellnessNo, c1LeaveNo, c1AnonimityNo, c1ComfortNo];
+          let c1YesResults = [c1BenefitsYes, c1WellnessYes, c1LeaveYes, c1AnonymityYes, c1ComfortYes];
+          let c1NoResultsPos = [c1BenefitsNo, c1WellnessNo, c1LeaveNo, c1AnonymityNo, c1ComfortNo];
 
           for (let i = 0; i < newData2.length; i++) {
             if (newData2[i].benefits === "Yes" || newData2[i].benefits === "Y") {
@@ -225,8 +235,8 @@
             if (newData2[i].wellness_program === "Yes") {
               c2WellnessYes += 1;
             }
-            if (newData2[i].anonimity === "Yes") {
-              c2AnonimityYes += 1;
+            if (newData2[i].anonymity === "Yes") {
+              c2AnonymityYes += 1;
             }
             if (newData2[i].coworkers === "Yes" || newData2[i].coworkers === "Some of them") {
               c2ComfortYes += 1;
@@ -240,38 +250,36 @@
             if (newData2[i].wellness_program === "No") {
               c2WellnessNo += 1;
             }
-            if (newData1[i].anonimity === "No") {
-              c2AnonimityNo += 1;
+            if (newData2[i].anonymity === "No") {
+              c2AnonymityNo += 1;
             }
-            if (newData1[i].coworkers === "No") {
+            if (newData2[i].coworkers === "No") {
               c2ComfortNo += 1;
             };
           }
 
-          let c2YesResults = [c2BenefitsYes, c2WellnessYes, c2LeaveYes, c2AnonimityYes, c2ComfortYes];
-          let c2NoResults = [c2BenefitsNo, c2WellnessNo, c2LeaveNo, c2AnonimityNo, c2ComfortNo];
+          let c2YesResults = [c2BenefitsYes, c2WellnessYes, c2LeaveYes, c2AnonymityYes, c2ComfortYes];
+          let c2NoResultsPos = [c2BenefitsNo, c2WellnessNo, c2LeaveNo, c2AnonymityNo, c2ComfortNo];
 
           console.log("C1");
           console.log(c1YesResults);
-          console.log(c1NoResults);
+          console.log(c1NoResultsPos);
 
           console.log("C2");
           console.log(c2YesResults);
-          console.log(c1NoResults);
+          console.log(c1NoResultsPos);
 
-          // filter out self_employed
-          newData1.filter(item => item.self_employed === slfEmpld);
-          newData2.filter(item => item.self_employed === slfEmpld);
+          let c1NoResults = c1NoResultsPos.map(value => -value);
+          let c2NoResults = c2NoResultsPos.map(value => -value);
 
-          // filter out family_history
-          newData1.filter(item => item.family_history === fmlHstry && item.Country === 'Canada');
-          newData2.filter(item => item.family_history === fmlHstry);
+          myChart.data.datasets[0].data = c1YesResults;
+          myChart.data.datasets[1].data = c1NoResults;
+          myChart.update();
 
-          // filter country
-         
+          myChart2.data.datasets[0].data = c2YesResults;
+          myChart2.data.datasets[1].data = c2NoResults;
+          myChart2.update();
 
-          console.log('NEW DATA');
-          console.log(newData1);
         }
 
         let data = [12, 10, 3, 5, 2, 4];
@@ -294,7 +302,7 @@
       const myChart = new Chart(ctx, {
           type: 'bar',
           data: {
-              labels: ['Mental Health Benefits', 'Wellness Program', 'Mental Health Leave', 'Anonimity Protected in Work Treatments', 'Comfortable Sharing Mental Health w/ Coworkers'],
+              labels: ['Mental Health Benefits', 'Wellness Program', 'Mental Health Leave', 'anonymity Protected in Work Treatments', 'Comfortable Sharing Mental Health w/ Coworkers'],
               datasets: [{
                   label: '# Yes Responses',
                   data: [12, 10, 3, 5, 2],
