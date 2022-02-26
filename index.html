@@ -51,6 +51,16 @@
           }
           update();
         }
+
+        function hideGenders() {
+          let hide = document.getElementById('genderSelect').checked;
+          if (hide) {
+            document.getElementById('genderSelectContainer').style.display = "inline";
+          } else {
+            document.getElementById('genderSelectContainer').style.display = "none";
+          }
+          update();
+        }
                                 
 
       d3.csv("https://raw.githubusercontent.com/HactuallyBenji/workplace_visualized/main/survey.csv").then(logData);
@@ -58,13 +68,24 @@
     </script>
   </head>
   <body>
-      <div id="header" style="width: 100%; height: 100px; font-size: 30px; display: flex; align-items: center; justify-content: center;">SENG480D - Ben Miller (Title)</div>
+      <div id="header" style="width: 100%; height: 100px; font-size: 30px; display: flex; align-items: center; justify-content: center;">Mental Health Resource Accessibility and State in the Tech Workplace</div>
       <div id="map_filter_container" style="display: flex; justify-content: center; align-items: center;">
         <div id="vmap" style="width: 65%; height: 300px; padding-bottom: 20px; border-top: 1px solid grey"></div>
         <div id="filter_options" style="width: 24%; height: 300px; padding: 10px; border-top: 1px solid grey; display: inline-block;">
-            <input type="checkbox" checked="false" id="all" name="all" value="All" style="margin-top: 5px" onchange="hideFilters()">
+            <input type="checkbox" id="all" name="all" value="All" style="margin-top: 5px" onchange="hideFilters()">
             <label for="all">All Data</label><br>
             <div class="optionalFilters" id="optionalFilters">
+
+              <input type="checkbox" checked="true" id="genderSelect" name="GenderSelect" value="GenderSelect" onchange="hideGenders()">
+              <label for="genderSelect">Select Gender</label><br>
+
+              <div class="genderSelectContainer" id="genderSelectContainer">
+                <input type="radio" id="male" name="gender" value="Male" onchange="update()">
+                <label for="male">Male</label><br>
+                <input type="radio" id="female" name="gender" value="Female" onchange="update()">
+                <label for="female">Female</label><br>
+              </div>
+
               <input type="checkbox" checked="true" id="remote" name="remote" value="Remote" style="margin-top: 5px" onchange="update()">
               <label for="remote">Remote Work</label><br>
               <input type="checkbox" checked="true" id="self_employed" name="self_employed" value="Self_Employed" onchange="update()">
@@ -115,6 +136,15 @@
     <script>
 
         function getData(data) {
+
+          const genders = document.getElementsByName('gender');
+          let isMale;
+          if (genders[0].checked) {
+            isMale = "male";
+          } else {
+            isMale = "female"
+          }
+
           const remote = document.getElementById('remote').checked;
           const rmt = remote ? "Yes" : "No";
           console.log(remote);
@@ -156,6 +186,17 @@
                 )
               );
           });
+
+
+
+          if (document.getElementById('genderSelect').checked) {
+            let newData1Temp = newData1.filter(item => item.Gender === isMale);
+            let newData2Temp = newData2.filter(item => item.Gender === isMale);
+            newData1 = newData1Temp;
+            newData2 = newData2Temp;
+            console.log("Male or female");
+            console.log(isMale);
+          };
 
           let c1BenefitsYes = 0;
           let c1BenefitsNo = 0;
